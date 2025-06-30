@@ -1,0 +1,194 @@
+{
+  "characters": {
+    "rapi": {
+      "name": "Rapi",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Militaria",
+        "type": "assault_rifle"
+      },
+      "squad": "Counters",
+      "voice_actor": {
+        "korean": "Kim Bo-na",
+        "english": "Kayli Mills",
+        "japanese": "Yui Ishikawa"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "III",
+      "code": "fire",
+      "manufacturer": "elysion",
+      "class": "attackers"
+    },
+    "neon": {
+      "name": "Neon",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Annihilation",
+        "type": "shotgun"
+      },
+      "squad": "Counters",
+      "voice_actor": {
+        "korean": "Jang Mi",
+        "english": "Xanthe Huynh",
+        "japanese": "Rina Hidaka"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "I",
+      "code": "fire",
+      "manufacturer": "elysion",
+      "class": "supporters"
+    },
+    "snow_white": {
+      "name": "Snow White",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Seven Dwarves",
+        "type": "assault_rifle"
+      },
+      "squad": "Pioneer",
+      "voice_actor": {
+        "korean": "So Yeon",
+        "english": "Laura Stahl",
+        "japanese": "M・A・O"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "III",
+      "code": "iron",
+      "manufacturer": "pilgrim",
+      "class": "attackers"
+    },
+    "delta": {
+      "name": "Delta",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Remember",
+        "type": "sniper_rifle"
+      },
+      "squad": "The Scouts",
+      "voice_actor": {
+        "korean": "Lee Seul",
+        "english": "Antonia Flynn",
+        "japanese": "Yumiri Hanamori"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "II",
+      "code": "wind",
+      "manufacturer": "elysion",
+      "class": "defenders"
+    },
+    "mica": {
+      "name": "mica",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Buddy Buddy Explosion",
+        "type": "rocket_launcher"
+      },
+      "squad": "The Carronades",
+      "voice_actor": {
+        "korean": "Kim Ga-ryung",
+        "english": "Corina Boettger",
+        "japanese": "Aimi Terakawa"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "I",
+      "code": "wind",
+      "manufacturer": "tetra_line",
+      "class": "supporters"
+    },
+    "diesel": {
+      "name": "diesel",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Wanderlust",
+        "type": "machine_gun"
+      },
+      "squad": "Infinity Rail",
+      "voice_actor": {
+        "korean": "Kim Yoo-rim",
+        "english": "Jenny Yokobori",
+        "japanese": "Rie Takahashi"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "II",
+      "code": "wind",
+      "manufacturer": "elysion",
+      "class": "defenders"
+    },
+    "miranda": {
+      "name": "Miranda",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Inflexible",
+        "type": "submachine_gun"
+      },
+      "squad": "A.C.P.U.",
+      "voice_actor": {
+        "korean": "Min-ah",
+        "english": "Jackie Lastra",
+        "japanese": "Yui Horie"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "I",
+      "code": "fire",
+      "manufacturer": "elysion",
+      "class": "supporters"
+    },
+    "emma": {
+      "name": "Emma",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Special Therapy",
+        "type": "machine_gun"
+      },
+      "squad": "Absolute",
+      "voice_actor": {
+        "korean": "Lee Myung-ho",
+        "english": "Dominique North",
+        "japanese": "Mamiko Noto"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "I",
+      "code": "fire",
+      "manufacturer": "elysion",
+      "class": "supporters"
+    },
+    "privaty": {
+      "name": "Privaty",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Team Chemistry",
+        "type": "assault_rifle"
+      },
+      "squad": "Triangle",
+      "voice_actor": {
+        "korean": "Bang Siu",
+        "english": "Kira Buckland",
+        "japanese": "Ayana Taketatsu"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "III",
+      "code": "water",
+      "manufacturer": "elysion",
+      "class": "attackers"
+    },
+    "signal": {
+      "name": "Signal",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Soap Opera",
+        "type": "submachine_gun"
+      },
+      "squad": "The Scouts",
+      "voice_actor": {
+        "korean": "Kim Yoo-rim",
+        "english": "Brittany Cox",
+        "japanese": "Satomi Satō"
+      },
+      "release_date": "November 4, 2022",
+      "burst": "II",
+      "code": "fire",
+      "manufacturer": "elysion",
+      "class": "attackers"
+    }
+  }
+}

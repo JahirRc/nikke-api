@@ -1,0 +1,268 @@
+{
+  "characters": {
+    "rapi": {
+      "id": "rapi",
+      "name": "Rapi",
+      "rarity": "4",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/82/Rapi_MI.png/revision/latest?cb=20231123043651",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1a/Rapi_FB.png/revision/latest?cb=20230402081008",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/af/Rapi_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240925034128",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/50/Rapi_aim_idle_combat.png/revision/latest?cb=20240925034127",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/30/Rapi_SkillBurst.png/revision/latest?cb=20231023005741"
+        },
+        "white_promise": {
+          "id": "white_promise",
+          "name": "White Promise",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d3/Rapi_%28White_Promise%29_MI.png/revision/latest?cb=20231123052432",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/dd/Rapi_%28White_Promise%29_FB.png/revision/latest?cb=20230402081031",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9f/Rapi_%28White_Promise%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240925034132",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c8/Rapi_%28White_Promise%29_aim_idle_combat.png/revision/latest?cb=20240925034131"
+        },
+        "classic_vacation": {
+          "id": "classic_vacation",
+          "name": "Classic Vacation",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/77/Rapi_%28Classic_Vacation%29_MI.png/revision/latest?cb=20231123052431",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e1/Rapi_%28Classic_Vacation%29_FB.png/revision/latest?cb=20230704032638",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/13/Rapi_%28Classic_Vacation%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240925034129",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/39/Rapi_%28Classic_Vacation%29_aim_idle_combat.png/revision/latest?cb=20240925034130"
+        }
+      }
+    },
+    "neon": {
+      "id": "neon",
+      "name": "Neon",
+      "rarity": "4",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/14/Neon_MI.png/revision/latest?cb=20231123052411",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Neon_FB.png/revision/latest?cb=20230404084241",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Neon_cover_idle.png/revision/latest?cb=20240925191908",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d1/Neon_aim_idle_combat.png/revision/latest?cb=20240925191905",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f4/Neon_SkillBurst.png/revision/latest?cb=20231023011212"
+        },
+        "bling_bullet": {
+          "id": "bling_bullet",
+          "name": "Bling Bullet",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c6/Neon_%28Bling_Bullet%29_MI.png/revision/latest?cb=20231123052410",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/90/Neon_%28Bling_Bullet%29_FB.png/revision/latest?cb=20230404084250",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cf/Neon_%28Bling_Bullet%29_cover_idle.png/revision/latest?cb=20240925191907",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Neon_%28Bling_Bullet%29_aim_idle_combat.png/revision/latest?cb=20240925191906"
+        }
+      }
+    },
+    "snow_white": {
+      "id": "snow_white",
+      "name": "Snow White",
+      "rarity": "5",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/24/Snow_White_MI.png/revision/latest?cb=20231123052445",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/11/Snow_White_FB.png/revision/latest/scale-to-width-down/1000?cb=20230713183128",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d5/Snow_White_cover_idle_%28Default%29.png/revision/latest?cb=20250124115940",
+          "cover-burst-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2f/Snow_White_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240926024023",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d4/Snow_White_aim_idle_combat.png/revision/latest?cb=20240926024026",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Snow_White_SkillBurst.png/revision/latest?cb=20231023043025"
+        },
+        "white_knight": {
+          "id": "white_knight",
+          "name": "White Knight",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/72/Snow_White_%28White_Knight%29_MI.png/revision/latest?cb=20240425072544",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/16/Snow_White_%28White_Knight%29_FB.png/revision/latest/scale-to-width-down/1000?cb=20240425131221",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Snow_White_%28White_Knight%29_cover_idle_%28Default%29.png/revision/latest?cb=20250124115941",
+          "cover-burst-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f4/Snow_White_%28White_Knight%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240926024024",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Snow_White_%28White_Knight%29_aim_idle_combat.png/revision/latest?cb=20240926024025"
+        }
+      }
+    },
+    "delta": {
+      "id": "delta",
+      "name": "Delta",
+      "rarity": "4",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6f/Delta_MI.png/revision/latest?cb=20231123052318",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bf/Delta_FB.png/revision/latest?cb=20221211081537",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/Delta_cover_idle.png/revision/latest?cb=20240926012838",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/94/Delta_aim_idle_combat.png/revision/latest?cb=20240926012839"
+        }
+      }
+    },
+    "mica": {
+      "id": "mica",
+      "name": "Mica",
+      "rarity": "4",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b7/Mica_MI.png/revision/latest?cb=20231123052403",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Mica_FB.png/revision/latest?cb=20230311074247",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Mica_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240927024452",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/27/Mica_aim_idle_combat.png/revision/latest?cb=20240927024451"
+        }
+      }
+    },
+    "diesel": {
+      "id": "diesel",
+      "name": "Diesel",
+      "rarity": "5",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Diesel_MI.png/revision/latest?cb=20231123052321",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f5/Diesel_Full_Body.png/revision/latest?cb=20230404083038",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bf/Diesel_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240926004028",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Diesel_aim_idle_combat.png/revision/latest?cb=20240926004020",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/da/Diesel_SkillBurst.png/revision/latest?cb=20231023030837"
+        },
+        "black_sunday": {
+          "id": "black_sunday",
+          "name": "Black Sunday",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/18/Diesel_%28Black_Sunday%29_MI.png/revision/latest?cb=20231123052319",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/00/Diesel_%28Black_Sunday%29_FB.png/revision/latest?cb=20230404083048",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/06/Diesel_%28Black_Sunday%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240926004022",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a3/Diesel_%28Black_Sunday%29_aim_idle_combat.png/revision/latest?cb=20240926004021"
+        },
+        "strawberry_flower": {
+          "id": "strawberry_flower",
+          "name": "Strawberry Flower",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5a/Diesel_%28Strawberry_Flower%29_MI.png/revision/latest?cb=20231123052320",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d5/Diesel_%28Strawberry_Flower%29_FB.png/revision/latest?cb=20230921173303",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Diesel_%28Strawberry_Flower%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240926004024",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c4/Diesel_%28Strawberry_Flower%29_aim_idle_combat.png/revision/latest?cb=20240926004024"
+        },
+        "midnight_strawberry": {
+          "id": "midnight_strawberry",
+          "name": "Midnight Strawberry",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f8/Diesel_%28Midnight_Strawberry%29_MI.png/revision/latest?cb=20240425072852",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/11/Diesel_%28Midnight_Strawberry%29_FB.png/revision/latest?cb=20240425131031",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/47/Diesel_%28Midnight_Strawberry%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240926004026",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d8/Diesel_%28Midnight_Strawberry%29_aim_idle_combat.png/revision/latest/scale-to-width-down/1000?cb=20240926004025"
+        }
+      }
+    },
+    "miranda": {
+      "id": "miranda",
+      "name": "Miranda",
+      "rarity": "5",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/51/Miranda_MI.png/revision/latest?cb=20231123052406",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fe/Miranda_FB.png/revision/latest?cb=20221228072851",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Miranda_cover_idle.png/revision/latest?cb=20240926035849",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f0/Miranda_aim_idle_combat.png/revision/latest/scale-to-width-down/1000?cb=20240926035846",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2f/Miranda_SkillBurst.png/revision/latest?cb=20231023025112"
+        },
+        "thief_of_justice": {
+          "id": "thief_of_justice",
+          "name": "Thief Of Justice",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/76/Miranda_%28Thief_of_Justice%29_MI.png/revision/latest?cb=20240919105142",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bd/Miranda_%28Thief_of_Justice%29_FB.png/revision/latest?cb=20240919105108",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ec/Miranda_%28Thief_of_Justice%29_cover_idle.png/revision/latest?cb=20240926035848",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/89/Miranda_%28Thief_of_Justice%29_aim_idle_combat.png/revision/latest/scale-to-width-down/1000?cb=20240926035847"
+        }
+      }
+    },
+    "emma": {
+      "id": "emma",
+      "name": "Emma",
+      "rarity": "5",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Emma_MI.png/revision/latest?cb=20231123052329",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/eb/Emma_FB.png/revision/latest?cb=20230404081931",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/28/Emma_cover_idle.png/revision/latest?cb=20240926031525",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6e/Emma_aim_idle_combat.png/revision/latest?cb=20240926031519",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d5/Emma_SkillBurst.png/revision/latest?cb=20231023031411"
+        },
+        "color_me_red": {
+          "id": "color_me_red",
+          "name": "Color Me Red",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b2/Emma_%28Color_Me_Red%29_MI.png/revision/latest?cb=20231123052327",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Emma_%28Color_Me_Red%29_FB.png/revision/latest?cb=20230404081940",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/29/Emma_%28Color_Me_Red%29_cover_idle.png/revision/latest?cb=20240926031522",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Emma_%28Color_Me_Red%29_aim_idle_combat.png/revision/latest?cb=20240926031521"
+        },
+        "office_therapy": {
+          "id": "office_therapy",
+          "name": "Office Therapy",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c1/Emma_%28Office_Therapy%29_MI.png/revision/latest?cb=20231123052328",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Emma_%28Office_Therapy%29_FB.png/revision/latest?cb=20230531164313",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8b/Emma_%28Office_Therapy%29_cover_idle.png/revision/latest?cb=20240926031523",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/23/Emma_%28Office_Therapy%29_aim_idle_combat.png/revision/latest?cb=20240926031524"
+        }
+      }
+    },
+    "privaty": {
+      "id": "privaty",
+      "name": "Privaty",
+      "rarity": "5",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e8/Privaty_MI.png/revision/latest?cb=20231123052426",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/13/Privaty_FB.png/revision/latest?cb=20230414111937",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/62/Privaty_cover_idle.png/revision/latest?cb=20240924234728",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/41/Privaty_aim_idle_combat.png/revision/latest?cb=20240924234727",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8b/Privaty_SkillBurst.png/revision/latest?cb=20231023034650"
+        },
+        "government_grunt": {
+          "id": "government_grunt",
+          "name": "Government Grunt",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/dd/Privaty_%28Government_Grunt%29_MI.png/revision/latest?cb=20231123052426",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/96/Privaty_%28Government_Grunt%29_FB.png/revision/latest?cb=20230414111951",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/27/Privaty_%28Government_Grunt%29_cover_idle.png/revision/latest?cb=20240924234729",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5b/Privaty_%28Government_Grunt%29_aim_idle_combat.png/revision/latest?cb=20240924234730"
+        },
+        "banquet_princess": {
+          "id": "banquet_princess",
+          "name": "Banquet Princess",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/42/Privaty_%28Banquet_Princess%29_MI.png/revision/latest?cb=20231123052425",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Privaty_%28Banquet_Princess%29_FB.png/revision/latest?cb=20231022233738",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Privaty_%28Banquet_Princess%29_cover_idle.png/revision/latest/scale-to-width-down/1000?cb=20240924234733",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Privaty_%28Banquet_Princess%29_aim_idle_combat.png/revision/latest/scale-to-width-down/1000?cb=20240924234731"
+        }
+      }
+    },
+    "signal": {
+      "id": "signal",
+      "name": "Signal",
+      "rarity": "5",
+      "skins": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f3/Signal_MI.png/revision/latest?cb=20231123052443",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Signal_FB.png/revision/latest?cb=20230404085616",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/24/Signal_cover_idle.png/revision/latest?cb=20240926014615",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/db/Signal_aim_idle_combat.png/revision/latest?cb=20240926014616",
+          "burst-skill-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/32/Signal_SkillBurst.png/revision/latest?cb=20211205232016"
+        },
+        "dramatic_chocolate": {
+          "id": "dramatic_chocolate",
+          "name": "Dramatic Chocolate",
+          "mi-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3f/Signal_%28Dramatic_Chocolate%29_MI.png/revision/latest?cb=20231123052442",
+          "full-body-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Signal_%28Dramatic_Chocolate%29_FB.png/revision/latest?cb=20230404085627",
+          "cover-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fd/Signal_%28Dramatic_Chocolate%29_cover_idle.png/revision/latest?cb=20240926014618",
+          "aiming-image": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fd/Signal_%28Dramatic_Chocolate%29_aim_idle_combat.png/revision/latest?cb=20240926014617"
+        }
+      }
+    }
+  }
+}
