@@ -1,6 +1,6 @@
-# Nikke API Documentation
+# Nikke web API Documentation
 
-This project provides an interactive documentation page for a fan-made API related to Nikke characters. It allows users to explore various API endpoints, understand their functionality, and even try them out directly within the browser.
+This project provides anfan-made API related to Nikke characters. It allows users to explore various API endpoints, understand their functionality, and even try them out directly within the browser.
 
 ## Features
 
