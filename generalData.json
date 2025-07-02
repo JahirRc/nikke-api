@@ -2013,6 +2013,690 @@
       "code": "electric",
       "manufacturer": "missilis_industry",
       "class": "supporters"
+    },
+    "tia": {
+      "name": "Tia",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Chase Nail",
+        "type": "rocket_launcher"
+      },
+      "squad": "Dazzling Pearl",
+      "voice_actor": {
+        "korean": "Park Yi-seo",
+        "english": "Brenna Larsen",
+        "japanese": "Rumi Okubo"
+      },
+      "release_date": "October 12, 2023",
+      "burst": "I",
+      "code": "iron",
+      "manufacturer": "missilis_industry",
+      "class": "defenders"
+    },
+    "quiry": {
+      "name": "Quiry",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Cloud Eye",
+        "type": "rocket_launcher"
+      },
+      "squad": "A.C.P.U.",
+      "voice_actor": {
+        "korean": "Chun Song-e",
+        "english": "Laci Morgan",
+        "japanese": "Rina Kawaguchi"
+      },
+      "release_date": "October 19, 2023",
+      "burst": "III",
+      "code": "wind",
+      "manufacturer": "elysion",
+      "class": "supporters"
+    },
+    "ein": {
+      "name": "Ein",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Young Punk",
+        "type": "sniper_rifle"
+      },
+      "squad": "School Circle",
+      "voice_actor": {
+        "korean": "Won Esther",
+        "english": "Jalitza Delgado",
+        "japanese": "Nao Oshika"
+      },
+      "release_date": "July 25, 2024",
+      "burst": "III",
+      "code": "electric",
+      "manufacturer": "missilis_industry",
+      "class": "attackers"
+    },
+    "zwei": {
+      "name": "Zwei",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "President Junior",
+        "type": "shotgun"
+      },
+      "squad": "School Circle",
+      "voice_actor": {
+        "korean": "Kim Ye-ryeong",
+        "english": "Rachelle Heger",
+        "japanese": "Nina Hanamiya"
+      },
+      "release_date": "August 8, 2024",
+      "burst": "I",
+      "code": "electric",
+      "manufacturer": "elysion",
+      "class": "supporters"
+    },
+    "snow_white_innocent_days": {
+      "name": "Snow White: Innocent Days",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Seven Dwarves II",
+        "type": "assault_rifle"
+      },
+      "squad": "Goddess",
+      "voice_actor": {
+        "korean": "So Yeon",
+        "english": "Laura Stahl",
+        "japanese": "M・A・O"
+      },
+      "release_date": "November 2, 2023",
+      "burst": "III",
+      "code": "iron",
+      "manufacturer": "pilgrim",
+      "class": "attackers"
+    },
+    "cinderella": {
+      "name": "Cinderella",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Glass Slippers",
+        "type": "rocket_launcher"
+      },
+      "squad": "Old Tales",
+      "voice_actor": {
+        "korean": "Jeon Hae-ri",
+        "english": "Kaitlyn Robrock",
+        "japanese": "Aoi Yūki"
+      },
+      "release_date": "October 31, 2024",
+      "burst": "III",
+      "code": "electric",
+      "manufacturer": "pilgrim",
+      "class": "defenders"
+    },
+    "tove": {
+      "name": "Tove",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Energetic Survivor",
+        "type": "assault_rifle"
+      },
+      "squad": "Unlimited",
+      "voice_actor": {
+        "korean": "Cha Yeong-hui",
+        "english": "Molly Elizabeth Ring",
+        "japanese": "Shion Wakayama"
+      },
+      "release_date": "November 23, 2023",
+      "burst": "I",
+      "code": "water",
+      "manufacturer": "missilis_industry",
+      "class": "supporters"
+    },
+    "ludmilla_winter_owner": {
+      "name": "Ludmilla: Winter Owner",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Savior in the Snow",
+        "type": "machine_gun"
+      },
+      "squad": "Great Winter",
+      "voice_actor": {
+        "korean": "Bi Joo-eon",
+        "english": "Lauren Landa",
+        "japanese": "Ai Kakuma"
+      },
+      "release_date": "December 7, 2023",
+      "burst": "III",
+      "code": "water",
+      "manufacturer": "tetra_line",
+      "class": "attackers"
+    },
+    "mica_snow_buddy": {
+      "name": "Mica: Snow Buddy",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Winter Salute",
+        "type": "submachine_gun"
+      },
+      "squad": "The Carronades",
+      "voice_actor": {
+        "korean": "Kim Ga-ryung",
+        "english": "Corina Boettger",
+        "japanese": "Aimi Terakawa"
+      },
+      "release_date": "December 14, 2023",
+      "burst": "I",
+      "code": "iron",
+      "manufacturer": "tetra_line",
+      "class": "supporters"
+    },
+    "scarlet_black_shadow": {
+      "name": "Scarlet: Black Shadow",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Fleetly Fading",
+        "type": "rocket_launcher"
+      },
+      "squad": "Goddess",
+      "voice_actor": {
+        "korean": "Jang Ye-na",
+        "english": "Ratana",
+        "japanese": "Reina Ueda"
+      },
+      "release_date": "January 1, 2024",
+      "burst": "II",
+      "code": "wind",
+      "manufacturer": "pilgrim",
+      "class": "attackers"
+    },
+    "privaty_unkind_maid": {
+      "name": "Privaty: Unkind Maid",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Demanding Lover",
+        "type": "shotgun"
+      },
+      "squad": "Maid For You",
+      "voice_actor": {
+        "korean": "Bang Siu",
+        "english": "Kira Buckland",
+        "japanese": "Ayana Taketatsu"
+      },
+      "release_date": "February 5, 2024",
+      "burst": "III",
+      "code": "electric",
+      "manufacturer": "elysion",
+      "class": "attackers"
+    },
+    "elegg": {
+      "name": "Elegg",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Boomstick",
+        "type": "machine_gun"
+      },
+      "squad": "Electric Shock",
+      "voice_actor": {
+        "korean": "Kim Hyeon-ji",
+        "english": "Abby Espiritu",
+        "japanese": "Ayasa Itō"
+      },
+      "release_date": "February 22, 2024",
+      "burst": "II",
+      "code": "electric",
+      "manufacturer": "missilis_industry",
+      "class": "supporters"
+    },
+    "trony": {
+      "name": "Trony",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Transistor",
+        "type": "sniper_rifle"
+      },
+      "squad": "Electric Shock",
+      "voice_actor": {
+        "korean": "Yu Hye-ji",
+        "english": "Aria Saltini",
+        "japanese": "Akane Fujita"
+      },
+      "release_date": "May 16, 2024",
+      "burst": "III",
+      "code": "fire",
+      "manufacturer": "missilis_industry",
+      "class": "attackers"
+    },
+    "flora": {
+      "name": "Flora",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Natural Garden",
+        "type": "machine_gun"
+      },
+      "squad": "Botanic Garden",
+      "voice_actor": {
+        "korean": "Chae Rim",
+        "english": "Amber Aviles",
+        "japanese": "Aya Endō"
+      },
+      "release_date": "November 21, 2024",
+      "burst": "II",
+      "code": "electric",
+      "manufacturer": "missilis_industry",
+      "class": "supporters"
+    },
+    "grave": {
+      "name": "Grave",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Writer's Eraser",
+        "type": "assault_rifle"
+      },
+      "squad": "Old Tales",
+      "voice_actor": {
+        "korean": "Han Mi-ri",
+        "english": "Lauren Choo",
+        "japanese": "Hisako Kanemoto"
+      },
+      "release_date": "November 7, 2024",
+      "burst": "II",
+      "code": "fire",
+      "manufacturer": "pilgrim",
+      "class": "supporters"
+    },
+    "d_killer_wife": {
+      "name": "D: Killer Wife",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Hidden Edge",
+        "type": "sniper_rifle"
+      },
+      "squad": "Perilous Siege",
+      "voice_actor": {
+        "korean": "Kim Na-yul",
+        "english": "Jeannie Tirado",
+        "japanese": "Aya Yamane"
+      },
+      "release_date": "March 7, 2024",
+      "burst": "I",
+      "code": "fire",
+      "manufacturer": "elysion",
+      "class": "supporters"
+    },
+    "emilia": {
+      "name": "Emilia",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Freezing Breath",
+        "type": "rocket_launcher"
+      },
+      "squad": "Emilia's Faction",
+      "voice_actor": {
+        "korean": "Yu Yeong",
+        "english": "Kayli Mills",
+        "japanese": "Rie Takahashi"
+      },
+      "release_date": "March 21, 2024",
+      "burst": "III",
+      "code": "water",
+      "manufacturer": "abnormal",
+      "class": "attackers"
+    },
+    "rem": {
+      "name": "Rem",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Demon's Mighty Grip",
+        "type": "machine_gun"
+      },
+      "squad": "Emilia's Faction",
+      "voice_actor": {
+        "korean": "Kim Bo-na",
+        "english": "Brianna Knickerbocker",
+        "japanese": "Inori Minase"
+      },
+      "release_date": "March 28, 2024",
+      "burst": "II",
+      "code": "water",
+      "manufacturer": "abnormal",
+      "class": "supporters"
+    },
+    "ram": {
+      "name": "Ram",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Demon's Gaze",
+        "type": "sniper_rifle"
+      },
+      "squad": "Emilia's Faction",
+      "voice_actor": {
+        "korean": "Gabin",
+        "english": "Ryan Bartley",
+        "japanese": "Rie Murakawa"
+      },
+      "release_date": "March 21, 2024",
+      "burst": "I",
+      "code": "wind",
+      "manufacturer": "abnormal",
+      "class": "defenders"
+    },
+    "bay": {
+      "name": "Bay",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Victory Fanfare",
+        "type": "rocket_launcher"
+      },
+      "squad": "Rewind",
+      "voice_actor": {
+        "korean": "Lee-Bo-young",
+        "english": "Tara Sands",
+        "japanese": "Yu Serizawa"
+      },
+      "release_date": "April 11, 2024",
+      "burst": "II",
+      "code": "fire",
+      "manufacturer": "tetra_line",
+      "class": "defenders"
+    },
+    "clay": {
+      "name": "Clay",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "You Can Do It",
+        "type": "submachine_gun"
+      },
+      "squad": "Rewind",
+      "voice_actor": {
+        "korean": "Lee Joo-eun",
+        "english": "Kailey Bray",
+        "japanese": "Minori Suzuki"
+      },
+      "release_date": "June 20, 2024",
+      "burst": "II",
+      "code": "electric",
+      "manufacturer": "tetra_line",
+      "class": "supporters"
+    },
+    "kilo": {
+      "name": "Kilo",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Anchoret",
+        "type": "machine_gun"
+      },
+      "squad": "Heavy Gram",
+      "voice_actor": {
+        "korean": "Kim Ha-young",
+        "english": "Tara Sands",
+        "japanese": "Megumi Han"
+      },
+      "release_date": "April 25, 2024",
+      "burst": "III",
+      "code": "fire",
+      "manufacturer": "missilis_industry",
+      "class": "defenders"
+    },
+    "soda_twinkling_bunny": {
+      "name": "Soda: Twinkling Bunny",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Undiminished",
+        "type": "shotgun"
+      },
+      "squad": "Maid For You",
+      "voice_actor": {
+        "korean": "Park Shi-yoon",
+        "english": "Elizabeth Quedenfeld",
+        "japanese": "Konomi Kohara"
+      },
+      "release_date": "May 30, 2024",
+      "burst": "III",
+      "code": "iron",
+      "manufacturer": "tetra_line",
+      "class": "attackers"
+    },
+    "alice_wonderland_bunny": {
+      "name": "Alice: Wonderland Bunny",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "My Little Carrot",
+        "type": "submachine_gun"
+      },
+      "squad": "Unlimited",
+      "voice_actor": {
+        "korean": "Sung Ye-won",
+        "english": "Kayli Mills",
+        "japanese": "Hina Yōmiya"
+      },
+      "release_date": "June 6, 2024",
+      "burst": "I",
+      "code": "water",
+      "manufacturer": "tetra_line",
+      "class": "supporters"
+    },
+    "rosanna_chic_ocean": {
+      "name": "Rosanna: Chic Ocean",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Golden Thompson",
+        "type": "assault_rifle"
+      },
+      "squad": "Underworld Queen",
+      "voice_actor": {
+        "korean": "Lee Eun-jo",
+        "english": "Samantha Berman",
+        "japanese": "Ikumi Hasegawa"
+      },
+      "release_date": "July 11, 2024",
+      "burst": "II",
+      "code": "wind",
+      "manufacturer": "tetra_line",
+      "class": "supporters"
+    },
+    "sakura_bloom_in_summer": {
+      "name": "Sakura: Bloom in Summer",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Ichigenkin",
+        "type": "assault_rifle"
+      },
+      "squad": "Underworld Queen",
+      "voice_actor": {
+        "korean": "Choi Ha-ri",
+        "english": "Anjali Kunapaneni",
+        "japanese": "Sanae Kobayashi"
+      },
+      "release_date": "July 4, 2024",
+      "burst": "III",
+      "code": "wind",
+      "manufacturer": "tetra_line",
+      "class": "attackers"
+    },
+    "asuka_shikinami_langley": {
+      "name": "Asuka Shikinami Langley",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Lightweight Assault Rifle",
+        "type": "assault_rifle"
+      },
+      "squad": "NERV",
+      "voice_actor": {
+        "korean": "Yuko Miyamura",
+        "english": "Yuko Miyamura",
+        "japanese": "Yuko Miyamura"
+      },
+      "release_date": "August 22, 2024",
+      "burst": "III",
+      "code": "fire",
+      "manufacturer": "abnormal",
+      "class": "attackers"
+    },
+    "rei_ayanami": {
+      "name": "Rei Ayanami",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Heavy Gatling Gun for Subdual",
+        "type": "machine_gun"
+      },
+      "squad": "NERV",
+      "voice_actor": {
+        "korean": "Hayashibara Megumi",
+        "english": "Hayashibara Megumi",
+        "japanese": "Hayashibara Megumi"
+      },
+      "release_date": "August 29, 2024",
+      "burst": "III",
+      "code": "fire",
+      "manufacturer": "abnormal",
+      "class": "attackers"
+    },
+    "mari_makinami_illustrious": {
+      "name": "Mari Makinami Illustrious",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Long-Range Precision Rifle",
+        "type": "sniper_rifle"
+      },
+      "squad": "NERV",
+      "voice_actor": {
+        "korean": "Maaya Sakamoto",
+        "english": "Maaya Sakamoto",
+        "japanese": "Maaya Sakamoto"
+      },
+      "release_date": "September 5, 2024",
+      "burst": "II",
+      "code": "electric",
+      "manufacturer": "abnormal",
+      "class": "supporters"
+    },
+    "misato_katsuragi": {
+      "name": "Misato Katsuragi",
+      "rarity": "sr",
+      "weapon": {
+        "name": "Self-defense Automatic Pistol",
+        "type": "submachine_gun"
+      },
+      "squad": "NERV",
+      "voice_actor": {
+        "korean": "Mitsuishi Kotono",
+        "english": "Mitsuishi Kotono",
+        "japanese": "Mitsuishi Kotono"
+      },
+      "release_date": "August 22, 2024",
+      "burst": "I",
+      "code": "iron",
+      "manufacturer": "abnormal",
+      "class": "supporters"
+    },
+    "phantom": {
+      "name": "Phantom",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Midnight Thief",
+        "type": "assault_rifle"
+      },
+      "squad": "Best Seller",
+      "voice_actor": {
+        "korean": "Seo Da-Hye",
+        "english": "Emi Lo",
+        "japanese": "Hiromi Hirata"
+      },
+      "release_date": "October 10, 2024",
+      "burst": "III",
+      "code": "water",
+      "manufacturer": "elysion",
+      "class": "attackers"
+    },
+    "quency_escape_queen": {
+      "name": "Quency: Escape Queen",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Secret Exit",
+        "type": "submachine_gun"
+      },
+      "squad": "Real Kindness",
+      "voice_actor": {
+        "korean": "Kim Yeong-eun",
+        "english": "Tatiana Varma",
+        "japanese": "Aya Uchida"
+      },
+      "release_date": "October 3, 2024",
+      "burst": "III",
+      "code": "water",
+      "manufacturer": "missilis_industry",
+      "class": "attackers"
+    },
+    "rapunzel_pure_grace": {
+      "name": "Rapunzel: Pure Grace",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Holy Grace",
+        "type": "sniper_rifle"
+      },
+      "squad": "Goddess",
+      "voice_actor": {
+        "korean": "Lee Seul",
+        "english": "Tamara Fritz",
+        "japanese": "Suzuko Mimori"
+      },
+      "release_date": "October 31, 2024",
+      "burst": "I",
+      "code": "iron",
+      "manufacturer": "pilgrim",
+      "class": "defenders"
+    },
+    "little_mermaid": {
+      "name": "Little Mermaid",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Spindrift",
+        "type": "submachine_gun"
+      },
+      "squad": "Old Tales",
+      "voice_actor": {
+        "korean": "Kim Do-hee",
+        "english": "Monique Thomas",
+        "japanese": "Yū Shimamura"
+      },
+      "release_date": "April 24, 2025",
+      "burst": "I",
+      "code": "wind",
+      "manufacturer": "pilgrim",
+      "class": "supporters"
+    },
+    "maiden_ice_rose": {
+      "name": "Maiden: Ice Rose",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Diamond Dust",
+        "type": "rocket_launcher"
+      },
+      "squad": "Extrinsic",
+      "voice_actor": {
+        "korean": "Min-ah",
+        "english": "Jenny Yokobori",
+        "japanese": "Yui Horie"
+      },
+      "release_date": "December 5, 2024",
+      "burst": "III",
+      "code": "electric",
+      "manufacturer": "elysion",
+      "class": "defenders"
+    },
+    "guillotine_winter_slayer": {
+      "name": "Guillotine: Winter Slayer",
+      "rarity": "ssr",
+      "weapon": {
+        "name": "Brave Sword",
+        "type": "assault_rifle"
+      },
+      "squad": "Extrinsic",
+      "voice_actor": {
+        "korean": "Jung Yoo-jung",
+        "english": "Lindsay Sheppard",
+        "japanese": "Ami Koshimizu"
+      },
+      "release_date": "December 12, 2024",
+      "burst": "III",
+      "code": "water",
+      "manufacturer": "elysion",
+      "class": "attackers"
     }
   }
 }
