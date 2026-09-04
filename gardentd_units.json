@@ -1,1 +1,5672 @@
-
+[
+  {
+    "unitKey": "glassBamboo",
+    "texts": "Glass Bamboo",
+    "image": {
+      "main": "131246756006749",
+      "backup": "1WioTp_Ot2nQlB-K46EXknmWXLXeCNeej"
+    },
+    "values": "17.5+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.336Z"
+  },
+  {
+    "unitKey": "glassSunflower",
+    "texts": "Glass Sunflower",
+    "image": {
+      "main": "80657155080585",
+      "backup": "1BUmB2BfVA0CDkPp8FdjnG9b-pgM3CRx1"
+    },
+    "values": "22.5+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:01",
+    "edited_date": "2026-07-08T23:33:19.336Z"
+  },
+  {
+    "unitKey": "glassBubblePlant",
+    "texts": "Glass Bubble Plant",
+    "image": {
+      "main": "104979668069545",
+      "backup": "1kKD91r7lPFyQBrfTzYgV1Fpw2g5nTXcL"
+    },
+    "values": "15+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:02",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeBigMushroom",
+    "texts": "Bronze Big Mushroom",
+    "image": {
+      "main": "97322948346665",
+      "backup": "1hzfyxtVwCjk6vqxXnoUlWSsXuucnaE5a"
+    },
+    "values": "2.5k+",
+    "demands": "4.5/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:03",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverBigMushroom",
+    "texts": "Silver Big Mushroom",
+    "image": {
+      "main": "124275447888954",
+      "backup": "1D6Yt56Uw-xm8S5H4M9_Q3nFxN8gkx-vo"
+    },
+    "values": "5.45k+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:04",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldenBigMushroom",
+    "texts": "Golden Big Mushroom",
+    "image": {
+      "main": "113259805551902",
+      "backup": "1GvjFZZ54PIZKh3e4l9huMdtE4OhepfbV"
+    },
+    "values": "8k+ -> 11k+ (O/C)",
+    "demands": "2/10",
+    "status": "Fluctuating",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:05",
+    "edited_date": "2026-08-15T21:45:50.973Z"
+  },
+  {
+    "unitKey": "bronzeBloodvine",
+    "texts": "Bronze Bloodvine",
+    "image": {
+      "main": "77899344279862",
+      "backup": "1Lyt5Lt7e_8eSCWnh3NhrPeCmYDSRMAC_"
+    },
+    "values": "1.8k+",
+    "demands": "4.5/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:06",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverBloodvine",
+    "texts": "Silver Bloodvine",
+    "image": {
+      "main": "102801841032971",
+      "backup": "14iE6U4FpXrzA5xELsUahOQnpl5A9vD7Q"
+    },
+    "values": "4.76k+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:07",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldenBloodvine",
+    "texts": "Golden Bloodvine",
+    "image": {
+      "main": "131706537661927",
+      "backup": "1wRE6zIq7q3gFpVOIWui9bhIWdKZBa6x1"
+    },
+    "values": "5.7k+ --> 8k+ (O/C)",
+    "demands": "2/10",
+    "status": "Fluctuating",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:08",
+    "edited_date": "2026-08-15T21:48:10.338Z"
+  },
+  {
+    "unitKey": "bronzeGolem",
+    "texts": "Bronze Golem",
+    "image": {
+      "main": "101894790431170",
+      "backup": "1_m5fGksbKNUTshmAn4b6tu8LQrf2hFAE"
+    },
+    "values": "1.3K+",
+    "demands": "4/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:09",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverGolem",
+    "texts": "Silver Golem",
+    "image": {
+      "main": "122152464736238",
+      "backup": "1y28VknVmYUpGzHoqmIp4j1cOSN4mbA-4"
+    },
+    "values": "2.05K+",
+    "demands": "3.5/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:10",
+    "edited_date": "2026-07-09T00:05:18.418Z"
+  },
+  {
+    "unitKey": "goldenGolem",
+    "texts": "Golden Golem",
+    "image": {
+      "main": "74698817577461",
+      "backup": "147EZboJSTby0ZmNhreqw_d7S_wo7dto_"
+    },
+    "values": "4k+ -> 6k+ (O/C)",
+    "demands": "6/10",
+    "status": "Fluctuating",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:11",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "glassBlueberries",
+    "texts": "Glass Blueberries",
+    "image": {
+      "main": "72669180439448",
+      "backup": "16aWCPCMvSBop9nBJOXi4ZNyLJOxrhEOA"
+    },
+    "values": "20+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-18T00:00:12",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "electricBeetroot",
+    "texts": "Electric Beetroot",
+    "image": {
+      "main": "75496998448771",
+      "backup": "1qD2V_Rtoj0ZXm9TfAMRaic_EjSomz3zQ"
+    },
+    "values": "425+",
+    "demands": "5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:16",
+    "edited_date": "2026-08-20T00:13:45.447Z"
+  },
+  {
+    "unitKey": "grapes",
+    "texts": "Grapes",
+    "image": {
+      "main": "125973570678589",
+      "backup": "1ysNHM8nymJb8emIHzsC_n7zxrDCYc757"
+    },
+    "values": "160+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:17",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "bigMushroom",
+    "texts": "Big Mushroom",
+    "image": {
+      "main": "132255648557389",
+      "backup": "1b5MNskv8CocKZWWPrVcAOiv68sZoJGjn"
+    },
+    "values": "955+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:18",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "corn",
+    "texts": "Corn",
+    "image": {
+      "main": "81963051710955",
+      "backup": "1ykpIgLnM5ZbcV2vRGdvdzFmfjvj-XkDX"
+    },
+    "values": "145+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:19",
+    "edited_date": "2026-07-28T23:46:54.156Z"
+  },
+  {
+    "unitKey": "golem",
+    "texts": "Golem",
+    "image": {
+      "main": "72607433765957",
+      "backup": "1Hexd_uiITsjLEr7413Yrh8SUvwj3-2u9"
+    },
+    "values": "350+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:20",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "blossomBarrage",
+    "texts": "Blossom Barrage",
+    "image": {
+      "main": "98403439883259",
+      "backup": "1ppsC4OH6eykJ4M-g-gOX9RmDhL-827Rd"
+    },
+    "values": "4.9k+",
+    "demands": "4/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:21",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "dualBlasterbud",
+    "texts": "Dual Blasterbud",
+    "image": {
+      "main": "85609502974033",
+      "backup": "1J9LoaWCN0Y5Z0mQBbB1ln9qTGglJ-ux6"
+    },
+    "values": "575+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-07-18T00:00:22",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "icebuds",
+    "texts": "Icebuds",
+    "image": {
+      "main": "90203725538836",
+      "backup": "1ebxckk7UBNofag9h9P-Bga7b75-n8YQd"
+    },
+    "values": "5+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:23",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "stunFlower",
+    "texts": "Stunflower",
+    "image": {
+      "main": "83729715166169",
+      "backup": "12UDUh1wu09UBGzL7EnbKF2els2P_iqwe"
+    },
+    "values": "7.5+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:24",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "ballisticBanana",
+    "texts": "Ballistic Banana",
+    "image": {
+      "main": "99264297871475",
+      "backup": "1LrydNzGP4MmqF2pMoBMeB-9rJOhS_Rfx"
+    },
+    "values": "3+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:25",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "luckyClover",
+    "texts": "Lucky Clover",
+    "image": {
+      "main": "97788537257604",
+      "backup": "1cbb1f6KpbvsZxx-Or7o1YX2Phv3_2uPi"
+    },
+    "values": "955+",
+    "demands": "4.5/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:26",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "pyropetal",
+    "texts": "Pyropetal",
+    "image": {
+      "main": "127127655934713",
+      "backup": "1LrM6NCoYYCAxb3KPBiTNbV6s5NEwN7Nz"
+    },
+    "values": "3+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:27",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "beehive",
+    "texts": "Beehive",
+    "image": {
+      "main": "106740088971548",
+      "backup": "1vDYjOJswTqsz9D4tgsq_CZYLKPaO0HSo"
+    },
+    "values": "850+",
+    "demands": "6/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:28",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "bubblePlant",
+    "texts": "Bubble Plant",
+    "image": {
+      "main": "99841008924474",
+      "backup": "1TN5MQK1M6W3zzkUa9XTj2hFvcHwwqG4s"
+    },
+    "values": "0.5+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:29",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "venusFlytrap",
+    "texts": "Venus Flytrap",
+    "image": {
+      "main": "85480247403493",
+      "backup": "17gtiyXkzk9JfEQvPDwycNyqOwsnpPjjZ"
+    },
+    "values": "385+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:30",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "bloodvine",
+    "texts": "Bloodvine",
+    "image": {
+      "main": "70869033731884",
+      "backup": "1DFi3MAvjWJBOezYYsZkH84YKjkAV0V-B"
+    },
+    "values": "130+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:31",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "confusionPlant",
+    "texts": "Confusion Plant",
+    "image": {
+      "main": "109931034921611",
+      "backup": "1x0OKYIr6XncnNyuJ7wmIgvVacDizhi-v"
+    },
+    "values": "900+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:32",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "repairWorker",
+    "texts": "Repair Worker",
+    "image": {
+      "main": "70402994001522",
+      "backup": "1d3gtOXXNVOVex-0UMLTG8ZIuuYeGNV5u"
+    },
+    "values": "0.2+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:33",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "atomicPepper",
+    "texts": "Atomic Pepper",
+    "image": {
+      "main": "129708694462265",
+      "backup": "1WEQyjPEfSHBYZtOLtG2W59IhEw5YP3Yc"
+    },
+    "values": "4+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-18T00:00:33",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "speedSprinkler",
+    "texts": "Speed Sprinkler",
+    "image": {
+      "main": "96720440855608",
+      "backup": "1xf3LY3v-meIgxnwmv47r_d59jhxcq-0q"
+    },
+    "values": "0.3+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:34",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "lawnmower",
+    "texts": "Lawnmower",
+    "image": {
+      "main": "86629199960730",
+      "backup": "1245RtVpg_fKj56-qlqwCWyJuxJtnSYPl"
+    },
+    "values": "0.8+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:35",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "peasInAPod",
+    "texts": "Peas In A Pod",
+    "image": {
+      "main": "120667116506227",
+      "backup": "1tqzhbFPrYmwE_7QB2Z7d2c8XRXK2Rlmf"
+    },
+    "values": "0.2+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:36",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "sunflower",
+    "texts": "Sunflower",
+    "image": {
+      "main": "110485532879509",
+      "backup": "1dm7G811a3GsYWRS9GV_7QqX7wNO52WNr"
+    },
+    "values": "0.2+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:37",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "watermelon",
+    "texts": "Watermelon",
+    "image": {
+      "main": "116692095120118",
+      "backup": "1l_dd3vo7JR5502yCVM2wCqvj9yYGeSzD"
+    },
+    "values": "0.2+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:38",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "laserPlant",
+    "texts": "Laser Plant",
+    "image": {
+      "main": "111294501247340",
+      "backup": "1vW8kqRGYiLLVAb3ueZzRoOBmzOJAo-eW"
+    },
+    "values": "0.8+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:39",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "fanFlower",
+    "texts": "Fan Flower",
+    "image": {
+      "main": "83999418680464",
+      "backup": "1m0PbvjRGtLuZUjFHri_i4R6JvquttARM"
+    },
+    "values": "7.5+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:40",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "walnut",
+    "texts": "Walnut",
+    "image": {
+      "main": "91271751451994",
+      "backup": "1B9z705MECFpTejvR3WnQUL5alz_LbCj_"
+    },
+    "values": "0.1+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-18T00:00:41",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "+1EquippedUnitGift",
+    "texts": "+1 Equipped Unit Gift",
+    "image": {
+      "main": "91247203421326",
+      "backup": "1X6Mxsf3epvajcYgSoVi1LtcTo7VO10cE"
+    },
+    "values": "15+",
+    "demands": "4.5/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:42",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "x2SeedsGift",
+    "texts": "x2 Seeds Gift",
+    "image": {
+      "main": "105546465595657",
+      "backup": "15pWb7OGcHvK8FHkv0t039nwcHSu1GR4s"
+    },
+    "values": "1.03k+",
+    "demands": "8/10",
+    "status": "Slowly Rising",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:43",
+    "edited_date": "2026-08-07T22:44:33.287Z"
+  },
+  {
+    "unitKey": "x3GameSpeedGift",
+    "texts": "x3 Game Speed Gift",
+    "image": {
+      "main": "134761676806991",
+      "backup": "1ikJ3hdADlCr2vtVGeOB0WTCoJ-jWRXo1"
+    },
+    "values": "845+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:44",
+    "edited_date": "2026-08-01T21:53:34.003Z"
+  },
+  {
+    "unitKey": "vipGift",
+    "texts": "VIP Gift",
+    "image": {
+      "main": "73900702631076",
+      "backup": "1wwJqfgVLNIysXC6Yz4KufBHWszHXXCZk"
+    },
+    "values": "840+",
+    "demands": "7.5/10",
+    "status": "Unstable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:45",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "extraUnitStorageGift",
+    "texts": "Extra Unit Storage Gift",
+    "image": {
+      "main": "83957771165119",
+      "backup": "1gghmstMWCKSacZOrzPFjVSUaTYYBsju1"
+    },
+    "values": "2.5+",
+    "demands": "4/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:46",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "golemGift",
+    "texts": "Golem Gift",
+    "image": {
+      "main": "133616494960521",
+      "backup": "1nRLMv6sjbg0JFCQZIAwhYYhIgEb0OEZl"
+    },
+    "values": "20k+ -> 40k+ (O/C)",
+    "demands": "3/10",
+    "status": "Outdated",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:47",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "100SeedsGift",
+    "texts": "100 Seeds Gift",
+    "image": {
+      "main": "91962093710339",
+      "backup": "1sN_V5Tr10zfFhPHS-fNsw27cE7P3tieU"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:48",
+    "edited_date": null
+  },
+  {
+    "unitKey": "500SeedsGift",
+    "texts": "500 Seeds Gift",
+    "image": {
+      "main": "128705675663166",
+      "backup": "1J4dcHF2onlk6UOPTSaX-TpXBDV4LKmwn"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:49",
+    "edited_date": null
+  },
+  {
+    "unitKey": "1000SeedsGift",
+    "texts": "1K Seeds Gift",
+    "image": {
+      "main": "135931210115617",
+      "backup": "1QhR7CCB2GcCkIZW-bXOIZ4qwNh0KIFuy"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:50",
+    "edited_date": null
+  },
+  {
+    "unitKey": "2500SeedsGift",
+    "texts": "2.5K Seeds Gift",
+    "image": {
+      "main": "129127689994389",
+      "backup": "1CGTsvmjdn2B50hc3tTLmvb0lufHBWLa8"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:51",
+    "edited_date": null
+  },
+  {
+    "unitKey": "5000SeedsGift",
+    "texts": "5K Seeds Gift",
+    "image": {
+      "main": "133630993924284",
+      "backup": "19JSD7Hzj5566GUgLKoycpz4Q6pMTFhYI"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:52",
+    "edited_date": null
+  },
+  {
+    "unitKey": "10000SeedsGift",
+    "texts": "10K Seeds Gift",
+    "image": {
+      "main": "91879647701023",
+      "backup": "1wI3vIgMOlczlpBd5JP46lca1UQNmLEk2"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-07-18T00:00:53",
+    "edited_date": null
+  },
+  {
+    "unitKey": "petalray",
+    "texts": "Petalray",
+    "image": {
+      "main": "127314355798906",
+      "backup": "1lRJpsZPM6ebnkUjTitUotiaPditIUABK"
+    },
+    "values": "85+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-26T00:00:00",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "pesticider",
+    "texts": "Pesticider",
+    "image": {
+      "main": "113065796362904",
+      "backup": "1rIf0OvXS2NGqPBsXjRlygLM9qWE3r5_c"
+    },
+    "values": "0.5+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-07-26T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "rafflesia",
+    "texts": "Rafflesia",
+    "image": {
+      "main": "109075954516071",
+      "backup": "1WwUR1WxKYaTof8mg_l9mNj2EYaQnL5IV"
+    },
+    "values": "112+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-07-26T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "hellroot",
+    "texts": "Hellroot",
+    "image": {
+      "main": "81657113275187",
+      "backup": "12nUZKDqILjSLJAGnZLGhj1az809rR3iV"
+    },
+    "values": "425+",
+    "demands": "2/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-07-26T00:00:00",
+    "edited_date": "2026-08-13T22:45:21.853Z"
+  },
+  {
+    "unitKey": "blueberries",
+    "texts": "Blueberries",
+    "image": {
+      "main": "132685927573769",
+      "backup": "1ZGDtX61_WzzXkCHuBdC6Z1-cu9tnixjZ"
+    },
+    "values": "0.1+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-07-26T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "bronzeRafflesia",
+    "texts": "Bronze Rafflesia",
+    "image": {
+      "main": "125065004920224",
+      "backup": "1fTEiHqI6C8GcgzSyKned9ZZed2ebYalJ"
+    },
+    "values": "2.15k+",
+    "demands": "5/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-26T00:00:13",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverRafflesia",
+    "texts": "Silver Rafflesia",
+    "image": {
+      "main": "127424480188524",
+      "backup": "1aQ4U6ViYzBMiWJZuUOzGv94Ce-SnyOUD"
+    },
+    "values": "4.32k+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-26T00:00:14",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldenRafflesia",
+    "texts": "Gold Rafflesia",
+    "image": {
+      "main": "77647040547534",
+      "backup": "1ngJzRF2AlEPi1zKFaI5y-kuv3bH2rZ2D"
+    },
+    "values": "6k+ -> 12k+ (O/C)",
+    "demands": "6/10",
+    "status": "Fluctuating",
+    "rarity": "leaderboard",
+    "added_date": "2025-07-26T00:00:15",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "electroleaf",
+    "texts": "Electroleaf",
+    "image": {
+      "main": "102429138267416",
+      "backup": "1CZSbwP8VNAJ3S2mk93yiVlV-Yw2PXCX3"
+    },
+    "values": "3+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-08-02T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "mangoCluster",
+    "texts": "Mango Cluster",
+    "image": {
+      "main": "78667438793020",
+      "backup": "1QFuk1EjfYLJ8kOX6jTyHAdFOVdeRRv0r"
+    },
+    "values": "515+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-08-02T00:00:00",
+    "edited_date": "2026-08-13T22:45:21.854Z"
+  },
+  {
+    "unitKey": "doompetal",
+    "texts": "Doompetal",
+    "image": {
+      "main": "79276171131144",
+      "backup": "1KxoJMouNF1ES-eUH2TKVIysAUftECkzJ"
+    },
+    "values": "170+",
+    "demands": "3/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-02T00:00:01",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "juggercorn",
+    "texts": "Juggercorn",
+    "image": {
+      "main": "89413466495815",
+      "backup": "1ZJksORam-KBfpe7Uw66YKoZOrl6QT-Lf"
+    },
+    "values": "310+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-02T00:00:02",
+    "edited_date": "2026-07-28T23:46:54.156Z"
+  },
+  {
+    "unitKey": "tikiTower",
+    "texts": "Tiki Tower",
+    "image": {
+      "main": "112049889903546",
+      "backup": "1WvaXI8RNIh7G_IOuSUo-bl1kw15GAiLR"
+    },
+    "values": "15+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-08-09T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "seedMech",
+    "texts": "Seed Mech",
+    "image": {
+      "main": "100565066279973",
+      "backup": "1l0oyYd7aTTcbyNPq9gqGi3AV4eYiDyV0"
+    },
+    "values": "210+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-08-09T00:00:00",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "sporefang",
+    "texts": "Sporefang",
+    "image": {
+      "main": "131750928715199",
+      "backup": "1vezZF5lpMF6FMVgl-Uqu5zl51xJtwcZt"
+    },
+    "values": "8+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-08-09T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "rosebeam",
+    "texts": "Rosebeam",
+    "image": {
+      "main": "122499760298019",
+      "backup": "1cfiPM4hVr9u_upVSCIHaub5aBDfMU09z"
+    },
+    "values": "480+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-09T00:00:00",
+    "edited_date": "2026-07-18T21:55:04.120Z"
+  },
+  {
+    "unitKey": "lilStump",
+    "texts": "Lil Stump",
+    "image": {
+      "main": "89054576979285",
+      "backup": "12vMBs0K3DSXOqGZz4p1j5zLsdXHjkczI"
+    },
+    "values": "2.5+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-08-09T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "potshade",
+    "texts": "Potshade",
+    "image": {
+      "main": "123411097473573",
+      "backup": "1R3YHrlTmdcXtpyvS-xvzLc0fsKkTJu6v"
+    },
+    "values": "0.1+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-08-16T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "blackberries",
+    "texts": "Blackberries",
+    "image": {
+      "main": "137661023745218",
+      "backup": "1SWpP-QSUO08JEhlk3t3PITKRONiTWyA1"
+    },
+    "values": "0.1+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-08-16T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "carrotastrophe",
+    "texts": "Carrotastrophe",
+    "image": {
+      "main": "82981233192054",
+      "backup": "1OfIZQHHUeuDfQoM4ukCyj37Q1eAIYiTU"
+    },
+    "values": "130+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-16T00:00:00",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "passionShooter",
+    "texts": "Passion Shooter",
+    "image": {
+      "main": "80184877481316",
+      "backup": "185Foyh_tbPwY6InIEh-Kz6OORa2Sv2or"
+    },
+    "values": "4+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-08-16T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "timekeeper",
+    "texts": "Timekeeper",
+    "image": {
+      "main": "76797100749845",
+      "backup": "1sVGnq45Xhk7rkej4QCxEFnGnA6MQ4w4b"
+    },
+    "values": "900+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-16T00:00:00",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "shadestool",
+    "texts": "Shadestool",
+    "image": {
+      "main": "128426519275777",
+      "backup": "1WPMwvZBBDnfcpsaH-mPpspPYphMxWbxy"
+    },
+    "values": "575+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-08-16T00:00:00",
+    "edited_date": "2026-07-20T22:37:25.170Z"
+  },
+  {
+    "unitKey": "glassDoubleSunflower",
+    "texts": "Glass Double Sunflower",
+    "image": {
+      "main": "76567370591677",
+      "backup": "16xn5aE3sgV2MfCScxnZdY96aEjA6gAFS"
+    },
+    "values": "20+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-24T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeEarthDragon",
+    "texts": "Bronze Earth Dragon",
+    "image": {
+      "main": "96552260901349",
+      "backup": "1BMqM3MRR7fs2ey5qfLzt6C84n0ueQfRw"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-24T00:00:01",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "silverEarthDragon",
+    "texts": "Silver Earth Dragon",
+    "image": {
+      "main": "107947432368220",
+      "backup": "11AWtrLHxMNOwB9jVOTiDDQJPTiTUnXnj"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-24T00:00:02",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "goldEarthDragon",
+    "texts": "Gold Earth Dragon",
+    "image": {
+      "main": "71949301518627",
+      "backup": "1Q5Uscl3hZQRtLP1tZOs5M8hxYF6wFzRj"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-24T00:00:03",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "voltshade",
+    "texts": "Voltshade",
+    "image": {
+      "main": "136673268086316",
+      "backup": "19k4-pYpD_5il3GA99eoqQZ0gxcVyo1Yo"
+    },
+    "values": "235+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:03",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "earthDragon",
+    "texts": "Earth Dragon",
+    "image": {
+      "main": "124009389011321",
+      "backup": "1McDYbg2njpTemPrm-QpLWJopLtGB-zkV"
+    },
+    "values": "1.95k+",
+    "demands": "8/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:04",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "fisherman",
+    "texts": "Fisherman",
+    "image": {
+      "main": "123413979281002",
+      "backup": "1Akgz2q6UvYiRaMbGiAHG1zKW4D04k4iY"
+    },
+    "values": "0.3",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:05",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeFisherman",
+    "texts": "Bronze Fisherman",
+    "image": {
+      "main": "127279633171649",
+      "backup": "1-sQtt2h1ygWNkxqJctBGdVRPFiQTRA_t"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:06",
+    "edited_date": "2026-03-12T22:38:46.689"
+  },
+  {
+    "unitKey": "silverFisherman",
+    "texts": "Silver Fisherman",
+    "image": {
+      "main": "108986399145451",
+      "backup": "1JKmatV2Ka9AVTbYKqWrCrNcrozusjo4-"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:07",
+    "edited_date": "2026-03-12T22:38:08.52"
+  },
+  {
+    "unitKey": "goldFisherman",
+    "texts": "Gold Fisherman",
+    "image": {
+      "main": "80535359722327",
+      "backup": "1Lt5rYo_sBepagyv1xANNttYS5B6z6oQ8"
+    },
+    "values": "2.23k+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:08",
+    "edited_date": "2026-08-09T23:11:56.343Z"
+  },
+  {
+    "unitKey": "galacticShroom",
+    "texts": "Galactic Shroom",
+    "image": {
+      "main": "99916625575177",
+      "backup": "1nz9td0wT7TzeLUHPZdFilS_GniHBFtaq"
+    },
+    "values": "0.5",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:09",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeGalacticShroom",
+    "texts": "Bronze Galactic Shroom",
+    "image": {
+      "main": "82125572789636",
+      "backup": "18TNRHCOhnav3lEd2yCSDV0aJZXMlLwTr"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:10",
+    "edited_date": "2026-03-12T22:38:33.283"
+  },
+  {
+    "unitKey": "silverGalacticShroom",
+    "texts": "Silver Galactic Shroom",
+    "image": {
+      "main": "83625572811683",
+      "backup": "121lPI2Srp61opGoYJBWkEamqC65gWVI1"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:11",
+    "edited_date": "2026-03-12T22:37:46.768"
+  },
+  {
+    "unitKey": "goldGalacticShroom",
+    "texts": "Gold Galactic Shroom",
+    "image": {
+      "main": "113930424806741",
+      "backup": "1B46q_ERaBAdQ2AMB3FLhR3i1KFjVFVV8"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:12",
+    "edited_date": "2026-03-12T22:39:14.932"
+  },
+  {
+    "unitKey": "gnomeblitz",
+    "texts": "Gnomeblitz",
+    "image": {
+      "main": "76109771411254",
+      "backup": "12QKqXkkmP_bas25n7qh5mzaHUblTlcji"
+    },
+    "values": "2",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:13",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeGnomeblitz",
+    "texts": "Bronze Gnomeblitz",
+    "image": {
+      "main": "108803325831707",
+      "backup": "149hDNh8DYrnd7bnBjUHcIawbhrf_rsdb"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:14",
+    "edited_date": "2026-03-12T22:38:20.979"
+  },
+  {
+    "unitKey": "silverGnomeblitz",
+    "texts": "Silver Gnomeblitz",
+    "image": {
+      "main": "136409668598062",
+      "backup": "1Ll7-WcMCqLQNgsDAjXziePt2CZNmJPcH"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:15",
+    "edited_date": "2026-03-12T22:38:04.656"
+  },
+  {
+    "unitKey": "goldGnomeblitz",
+    "texts": "Gold Gnomeblitz",
+    "image": {
+      "main": "88224291290508",
+      "backup": "11qgrIBdm-iXUUt0RkNfj0Nu2rlqllDLw"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:16",
+    "edited_date": "2026-03-12T22:38:51.215"
+  },
+  {
+    "unitKey": "echosonicBloom",
+    "texts": "Echosonic Bloom",
+    "image": {
+      "main": "76713619333127",
+      "backup": "1pzcqleIqWhJ6mffB9HyHojrCqfpA27M6"
+    },
+    "values": "110+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:17",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeEchosonicBloom",
+    "texts": "Bronze Echosonic Bloom",
+    "image": {
+      "main": "128089843414467",
+      "backup": "1opojNykFgTBl6iDVTmNnxftuBO0VWBfN"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:18",
+    "edited_date": "2026-03-12T22:38:17.23"
+  },
+  {
+    "unitKey": "silverEchosonicBloom",
+    "texts": "Silver Echosonic Bloom",
+    "image": {
+      "main": "73811740078844",
+      "backup": "1I5GuhVTXRQTdJcE_xS6uBaeg9LfNDQGZ"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:19",
+    "edited_date": "2026-03-12T22:38:13.322"
+  },
+  {
+    "unitKey": "goldEchosonicBloom",
+    "texts": "Gold Echosonic Bloom",
+    "image": {
+      "main": "115448791128649",
+      "backup": "1-HchZcS8N5U1bMX_1Ugtf_tHcClfYiYF"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:20",
+    "edited_date": "2026-03-12T22:38:56.211"
+  },
+  {
+    "unitKey": "boomberries",
+    "texts": "Boomberries",
+    "image": {
+      "main": "93281471873308",
+      "backup": "15nKhYohQL_kITz_LXiZg5b5pvtsHZCsf"
+    },
+    "values": "1",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:21",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeBoomberries",
+    "texts": "Bronze Boomberries",
+    "image": {
+      "main": "91042139765605",
+      "backup": "1cmiB5rF5i-jkG-V_PCYePiuFJaQ2qk4R"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:22",
+    "edited_date": "2026-03-12T22:38:37.508"
+  },
+  {
+    "unitKey": "silverBoomberries",
+    "texts": "Silver Boomberries",
+    "image": {
+      "main": "130945617156904",
+      "backup": "1dzPst9IwL86xJe2xEj_eulvqw6bjX41c"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:23",
+    "edited_date": "2026-03-12T22:37:56.449"
+  },
+  {
+    "unitKey": "goldBoomberries",
+    "texts": "Gold Boomberries",
+    "image": {
+      "main": "124137717794317",
+      "backup": "1CaxyI8gCYCD1keQSfd3FuVH4NqCg9k3E"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:24",
+    "edited_date": "2026-03-12T22:39:05.868"
+  },
+  {
+    "unitKey": "chillyPepper",
+    "texts": "Chilly Pepper",
+    "image": {
+      "main": "105635502623662",
+      "backup": "1Z_pL7_CKtm_n9tejCK3MxNzjMQ5tw_Gd"
+    },
+    "values": "1.5",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:25",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeChillyPepper",
+    "texts": "Bronze Chilly Pepper",
+    "image": {
+      "main": "78660189756391",
+      "backup": "1F6GFRa8inoY9nZj-Hw7AjYlqZjzXfova"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:26",
+    "edited_date": "2026-03-12T22:38:25.089"
+  },
+  {
+    "unitKey": "silverChillyPepper",
+    "texts": "Silver Chilly Pepper",
+    "image": {
+      "main": "98406091701674",
+      "backup": "1q74EXtMbplZcFeWX7bJt2asB2aOukZV-"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:27",
+    "edited_date": "2026-03-12T22:37:51.929"
+  },
+  {
+    "unitKey": "goldChillyPepper",
+    "texts": "Gold Chilly Pepper",
+    "image": {
+      "main": "80811606683590",
+      "backup": "1RLLbmZ6IZHZLPbLhV-r77KzIHdZnDnY8"
+    },
+    "values": "N/A",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:28",
+    "edited_date": "2026-03-12T22:39:00.145"
+  },
+  {
+    "unitKey": "doubleSunflower",
+    "texts": "Double Sunflower",
+    "image": {
+      "main": "132059063223256",
+      "backup": "1JWMx4nl-e9NtzkR-hc3j2-H1UgTK2ggV"
+    },
+    "values": "2.5",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:29",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeDoubleSunflower",
+    "texts": "Bronze Double Sunflower",
+    "image": {
+      "main": "114800296138122",
+      "backup": "1gNAnDOTrhh_D2UOth6XWdaCAbQbXKDrc"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:30",
+    "edited_date": "2026-03-12T22:38:29.077"
+  },
+  {
+    "unitKey": "silverDoubleSunflower",
+    "texts": "Silver Double Sunflower",
+    "image": {
+      "main": "84079673561198",
+      "backup": "16rkYCKv7A3JCB29VCMcYvlUHM4Okpng0"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:31",
+    "edited_date": "2026-03-12T22:38:00.784"
+  },
+  {
+    "unitKey": "goldDoubleSunflower",
+    "texts": "Gold Double Sunflower",
+    "image": {
+      "main": "87642572574020",
+      "backup": "1BoY-vrxhLiXLHxMyioD7r_LuZIk95qlP"
+    },
+    "values": "15",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:32",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "budstrike",
+    "texts": "Budstrike",
+    "image": {
+      "main": "86155969074244",
+      "backup": "1d4-1cupWkKSkbuXL7yGS0-ECSbMIbMjd"
+    },
+    "values": "150+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:33",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeBudstrike",
+    "texts": "Bronze Budstrike",
+    "image": {
+      "main": "89659373119662",
+      "backup": "1IIv2LnBs3IeguCSDAIzjFo5Atnp7uj_l"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:34",
+    "edited_date": "2026-03-12T22:38:41.717"
+  },
+  {
+    "unitKey": "silverBudstrike",
+    "texts": "Silver Budstrike",
+    "image": {
+      "main": "128374272200061",
+      "backup": "1sIpL1t0AK7KuGD5OicQHOIHel79JU8l5"
+    },
+    "values": "N/A",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:35",
+    "edited_date": "2026-03-12T22:37:41.651"
+  },
+  {
+    "unitKey": "goldBudstrike",
+    "texts": "Gold Budstrike",
+    "image": {
+      "main": "137594031252609",
+      "backup": "13f2R1dMapF-pvmjM4Ec0Pg8DVcxaWrLe"
+    },
+    "values": "2.5k+",
+    "demands": "2.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-08-24T00:00:36",
+    "edited_date": "2026-07-08T23:44:02.996Z"
+  },
+  {
+    "unitKey": "plasmaspore",
+    "texts": "Plasmaspore",
+    "image": {
+      "main": "128772859139328",
+      "backup": "1FxmjaEGcuritDuwT-YPeCYRGcrhbLjBL"
+    },
+    "values": "0.2+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-08-30T00:00:00",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "prismleaf",
+    "texts": "Prismleaf",
+    "image": {
+      "main": "124374442384291",
+      "backup": "1OweabFPzopoIYFbIwWzdaYrVIrlTaJnK"
+    },
+    "values": "14.85k+",
+    "demands": "8/10",
+    "status": "Slowly Rising",
+    "rarity": "godly",
+    "added_date": "2025-08-30T00:00:01",
+    "edited_date": "2026-08-20T00:13:45.447Z"
+  },
+  {
+    "unitKey": "elementalBloom",
+    "texts": "Elemental Bloom",
+    "image": {
+      "main": "95385247431983",
+      "backup": "1ze65o8rp-lS5qJRwpw9jtm_POVvE5SSP"
+    },
+    "values": "200+",
+    "demands": "1.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-08-30T00:00:02",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "oogaBooga",
+    "texts": "Ooga Booga",
+    "image": {
+      "main": "129637591434549",
+      "backup": "1DtsIQSfT3wqToFimSXYhfeNpSH3jbJ0E"
+    },
+    "values": "135+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-08-30T00:00:03",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeVoltshade",
+    "texts": "Bronze Voltshade",
+    "image": {
+      "main": "97878628948328",
+      "backup": "1LoOYXS_Gcn9whRygi-A3kzKbu9qd1bF-"
+    },
+    "values": "2.2k+",
+    "demands": "3/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-30T00:00:04",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverVoltshade",
+    "texts": "Silver Voltshade",
+    "image": {
+      "main": "82458280051502",
+      "backup": "1tXhKq7A6tDXU-xnS2EKwZVXIjI5GkHWV"
+    },
+    "values": "7.03k+",
+    "demands": "4.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-30T00:00:05",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldVoltshade",
+    "texts": "Gold Voltshade",
+    "image": {
+      "main": "110869373268470",
+      "backup": "19y1UtZfJenuBPN0XcTGDPHWagH1MGWLb"
+    },
+    "values": "9k+ -> 14k+ (O/C)",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "leaderboard",
+    "added_date": "2025-08-30T00:00:05",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "50000SeedsGift",
+    "texts": "50K Seeds Gift",
+    "image": {
+      "main": "96383750283476",
+      "backup": "1L_itHGYp9X6u9SqdbLV8D_Gn8aD9L3na"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-08-30T00:00:06",
+    "edited_date": null
+  },
+  {
+    "unitKey": "100000SeedsGift",
+    "texts": "100K Seeds Gift",
+    "image": {
+      "main": "90854691043666",
+      "backup": "1WC0f0J2SZC-PRFik6S-rtIL4CYiF0ByI"
+    },
+    "values": "N/A",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "item",
+    "added_date": "2025-08-30T00:00:07",
+    "edited_date": null
+  },
+  {
+    "unitKey": "ufoSeedling",
+    "texts": "UFO Seedling",
+    "image": {
+      "main": "110628099256046",
+      "backup": "1hTYCn8thnfhxloKh7DXGe9EziAl5pDhQ"
+    },
+    "values": "0.4+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-09-06T10:02:13",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "roboFlower",
+    "texts": "Robo Flower",
+    "image": {
+      "main": "84303482546887",
+      "backup": "19zgYgYIAqTEk-RsaCdULNBDF9C091rMi"
+    },
+    "values": "3.5+",
+    "demands": "5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-09-06T10:03:58",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "mudmauler",
+    "texts": "Mudmauler",
+    "image": {
+      "main": "132762600720524",
+      "backup": "1WD94bp625QxkkBgLxgVJxzJa1_V27vE7"
+    },
+    "values": "530+",
+    "demands": "4/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-09-06T10:04:43",
+    "edited_date": "2026-07-20T22:37:25.170Z"
+  },
+  {
+    "unitKey": "astralBlossom",
+    "texts": "Astral Blossom",
+    "image": {
+      "main": "100843686507181",
+      "backup": "121jAxi5nesta0hYZfiQsAzleOG_PcCzH"
+    },
+    "values": "130+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-06T10:06:28",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "cursedFruit",
+    "texts": "Cursed Fruit",
+    "image": {
+      "main": "139940189335969",
+      "backup": "12Z_aKm2azgl0gDbp_J6Apv2xQmEAvmXT"
+    },
+    "values": "0.5+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-09-13T12:20:20",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "spiderLily",
+    "texts": "Spider Lily",
+    "image": {
+      "main": "102439350011957",
+      "backup": "1q5YrfZ0xKPcpvAoh2tF2jJWRef7x3Mlc"
+    },
+    "values": "5+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-09-13T12:21:43",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "chompMan",
+    "texts": "Chomp Man",
+    "image": {
+      "main": "75648723578152",
+      "backup": "1iUsOTS1b5YmqpG0O-jBgmTMwqK_9_fR6"
+    },
+    "values": "5.8k+",
+    "demands": "4/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-09-13T12:22:38",
+    "edited_date": "2026-08-21T22:52:03.951Z"
+  },
+  {
+    "unitKey": "rainbowTomato",
+    "texts": "Rainbow Tomato",
+    "image": {
+      "main": "76971052861897",
+      "backup": "1KDgrsZxYSSitER9sPhMDU5o2INtHVGY7"
+    },
+    "values": "5+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-13T12:23:36",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "blackClover",
+    "texts": "Black Clover",
+    "image": {
+      "main": "134923725523684",
+      "backup": "1JAybDAaOABpZvlGa8ueWwLF5TltJrUEt"
+    },
+    "values": "900+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-09-13T12:24:53",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "strongestPunchPotato",
+    "texts": "Strongest Punch Potato",
+    "image": {
+      "main": "101796903016954",
+      "backup": "1H7Oss7W192mJoBdGFZl9Sh6TgFgqg9PD"
+    },
+    "values": "2.4k+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-09-13T12:25:58",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "glassCursedFruit",
+    "texts": "Glass Cursed Fruit",
+    "image": {
+      "main": "92959033994014",
+      "backup": "1P_rNapM_bSLajKAN4rgfYI1UnkE6ljwC"
+    },
+    "values": "20+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-09-13T12:27:46",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeSpiderLily",
+    "texts": "Bronze Spider Lily",
+    "image": {
+      "main": "132103565562428",
+      "backup": "1OEzwpgz_dJZKFKUeNmVZcjn18an5aShV"
+    },
+    "values": "2.1K+",
+    "demands": "4.5/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-09-13T12:29:05",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverSpiderLily",
+    "texts": "Silver Spider Lily",
+    "image": {
+      "main": "77966013981207",
+      "backup": "1FzW5MTbX5Cz9zhCsMHva1FFemHR5Dq13"
+    },
+    "values": "5k+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-09-13T12:29:53",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldSpiderLily",
+    "texts": "Gold Spider Lily",
+    "image": {
+      "main": "116169925488959",
+      "backup": "1aXikJUV4M1nY8jADm0ckfIxylBHeR8FZ"
+    },
+    "values": "9.15k+ -> 11.5k+ (O/C)",
+    "demands": "1/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-09-13T12:30:52",
+    "edited_date": "2026-08-03T22:55:32.527Z"
+  },
+  {
+    "unitKey": "bonsaiTree",
+    "texts": "Bonsai Tree",
+    "image": {
+      "main": "91795626737925",
+      "backup": "1CF9lYGUXrUl6ie1lZ_G7U2CwQY0wGO2w"
+    },
+    "values": "110+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "low-rarity-valuable",
+    "added_date": "2025-09-13T12:47:40",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "gardenAlien",
+    "texts": "Garden Alien",
+    "image": {
+      "main": "103259806004140",
+      "backup": "17ov7NDpj-OBHaWx19rsLkFxBOYTZTGYl"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2025-09-20T10:49:41",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "stretchPlant",
+    "texts": "Stretch Plant",
+    "image": {
+      "main": "79467329780985",
+      "backup": "1nlzdylbe0IgVtHPm6iksFQbEeZ54vevk"
+    },
+    "values": "110+",
+    "demands": "1/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-09-20T10:53:02",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "superSprout",
+    "texts": "Super Sprout",
+    "image": {
+      "main": "72226975319066",
+      "backup": "1lR3687YchhBvt0OfhHTOaoZTKNUfk0v2"
+    },
+    "values": "180+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-09-20T10:54:55",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "rainbowDandelion",
+    "texts": "Rainbow Dandelion",
+    "image": {
+      "main": "72067195361123",
+      "backup": "1ToQdqzwdrHTHTXqto58GWZz7KTugBOWh"
+    },
+    "values": "5+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-20T11:01:11",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "auranji",
+    "texts": "Auranji",
+    "image": {
+      "main": "91992338083472",
+      "backup": "18m55yNmiNEtUl0oxHUeHEw9wB74ivtLC"
+    },
+    "values": "510+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-09-20T11:03:11",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "beamstalk",
+    "texts": "Beamstalk",
+    "image": {
+      "main": "71942482484027",
+      "backup": "1Vvoudbsa_Fsj1szEUPAjStxMcWygKm8F"
+    },
+    "values": "180+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-20T11:05:11",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "eggPlantinum",
+    "texts": "Egg Plantinum",
+    "image": {
+      "main": "131453524907653",
+      "backup": "11yGWG_rC0BnwfXsxOxlibqBgtZKv-fHn"
+    },
+    "values": "2.22k+",
+    "demands": "9/10",
+    "status": "Rising",
+    "rarity": "exclusive",
+    "added_date": "2025-09-20T11:06:51",
+    "edited_date": "2026-08-31T23:39:25.320Z"
+  },
+  {
+    "unitKey": "dashroom",
+    "texts": "Dashroom",
+    "image": {
+      "main": "74754625576986",
+      "backup": "1y3BAPZymKKiB5DP2GNbfilXH2QLzgCHp"
+    },
+    "values": "65+",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "low-rarity-valuable",
+    "added_date": "2025-09-20T12:50:41",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "rainbowBamboo",
+    "texts": "Rainbow Bamboo",
+    "image": {
+      "main": "104975965861338",
+      "backup": "1fCVcFEjtLSvJT9gGc0pctrgKwH_R9CO_"
+    },
+    "values": "5+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-27T14:46:35",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "solarianBloom",
+    "texts": "Solarian Bloom",
+    "image": {
+      "main": "114572178424862",
+      "backup": "1Ug21_6mhijfXWEvlma38423rusFUcfxp"
+    },
+    "values": "115+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-27T14:47:50",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "infinityPetal",
+    "texts": "Infinity Petal",
+    "image": {
+      "main": "135124538707249",
+      "backup": "1g7kPgS-h4uicf31JIb9p5dc-qgw6JFF5"
+    },
+    "values": "130+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-09-27T14:49:06",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "rainbowBabyCarrots",
+    "texts": "Rainbow Baby Carrots",
+    "image": {
+      "main": "107203549149512",
+      "backup": "15vsUSK5No9G36rQnI3ZSRHnerfZDp5p0"
+    },
+    "values": "5+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:51:40",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "stickpetal",
+    "texts": "Stickpetal",
+    "image": {
+      "main": "129373833953573",
+      "backup": "1WO2Bg1ymTwgLhF81VugYcTm0JF6qgg7p"
+    },
+    "values": "975+",
+    "demands": "7.5/10",
+    "status": "Slowly Rising",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:53:03",
+    "edited_date": "2026-08-17T22:38:10.860Z"
+  },
+  {
+    "unitKey": "gnomaticSaw",
+    "texts": "Gnomatic Saw",
+    "image": {
+      "main": "128140530284245",
+      "backup": "12R0yOv4CuvbMmj1KAecDMdyKdgfiNcQq"
+    },
+    "values": "150+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:53:47",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "frostshade",
+    "texts": "Frostshade",
+    "image": {
+      "main": "91989488045698",
+      "backup": "1UExOnBxQrL4VQk0zWu9YUNwjN5bvvJ0h"
+    },
+    "values": "250+",
+    "demands": "1.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:54:40",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "glassLawnmower",
+    "texts": "Glass Lawnmower",
+    "image": {
+      "main": "84536204314118",
+      "backup": "1E0u6BDePmsn26x11XeDY1VnsBtqeTjZs"
+    },
+    "values": "22.5+",
+    "demands": "4.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:56:17",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bronzeLawnmower",
+    "texts": "Bronze Lawnmower",
+    "image": {
+      "main": "101813876996519",
+      "backup": "12DGJyEnwdk2sdibyiNZ9tP9m07k63myj"
+    },
+    "values": "20+",
+    "demands": "3/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:57:01",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverLawnmower",
+    "texts": "Silver Lawnmower",
+    "image": {
+      "main": "84794247048782",
+      "backup": "1mzONcfG4WgGk3h_E2A3oHZpaD55pgyKZ"
+    },
+    "values": "40+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:57:43",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldLawnmower",
+    "texts": "Gold Lawnmower",
+    "image": {
+      "main": "91432881400534",
+      "backup": "1nOgYtv6lO9WJmU4DaBZdvuTwID3JZ0rx"
+    },
+    "values": "130+",
+    "demands": "5.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-05T00:58:20",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "rosemine",
+    "texts": "Rosemire",
+    "image": {
+      "main": "132224546826214",
+      "backup": "1kvI5HWrjNloBWXVAjpBE_l60MVGqDEbb"
+    },
+    "values": "0.4+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-10-11T11:13:21",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "rangeleaf",
+    "texts": "Rangeleaf",
+    "image": {
+      "main": "119817519622156",
+      "backup": "1ei5fQVpXIhzrvTt6LBRpQd3h8gW9GcGh"
+    },
+    "values": "3+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-10-11T11:16:29",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "fungalBarrage",
+    "texts": "Fungal Barrage",
+    "image": {
+      "main": "76950703517669",
+      "backup": "1bzDpibBSeDAmxpPFhc157H8A61KlXdWk"
+    },
+    "values": "140+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-10-11T11:18:36",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "rainbowChillyPepper",
+    "texts": "Rainbow Chilly Pepper",
+    "image": {
+      "main": "72557854419118",
+      "backup": "1SLCg7w3NBUO0_SIvFe5I7xdZq0jCnykW"
+    },
+    "values": "5+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-11T11:22:50",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "bloomnova",
+    "texts": "Bloomnova",
+    "image": {
+      "main": "83133226642190",
+      "backup": "1o0fRxU8s5GABHrGMEdYtNUWDKREWwbmr"
+    },
+    "values": "390+",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-11T11:26:02",
+    "edited_date": "2026-07-24T22:23:49.147Z"
+  },
+  {
+    "unitKey": "floralOverseer",
+    "texts": "Floral Overseer",
+    "image": {
+      "main": "115392817235964",
+      "backup": "1-Dhv8LD7U_T_j0I2HXuFbhYp6Iws9Ba2"
+    },
+    "values": "240+",
+    "demands": "3.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-11T11:27:04",
+    "edited_date": "2026-07-18T21:55:04.120Z"
+  },
+  {
+    "unitKey": "nightshade",
+    "texts": "Nightshade",
+    "image": {
+      "main": "74546575262790",
+      "backup": "1dosXmSv5tNGzz7wQYLJ5CMGxxu0EJFFx"
+    },
+    "values": "27.5+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-11T11:30:34",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "beeStinger",
+    "texts": "Bee Stinger",
+    "image": {
+      "main": "133247551030196",
+      "backup": "1htRF9PSfZ1XzmT-gTqxKbo71yyddKJ1u"
+    },
+    "values": "395+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-10-11T11:31:58",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "thornzilla",
+    "texts": "Thornzilla",
+    "image": {
+      "main": "85208673757691",
+      "backup": "1BGcyBfE2_egSlIupBCcSvlkfkh1O8-Nl"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2025-10-18T13:51:57",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "deathesia",
+    "texts": "Deathesia",
+    "image": {
+      "main": "131705089380685",
+      "backup": "1v9UYYJ02tdewH0nSEy6VZCnYpAlXTi6F"
+    },
+    "values": "180+",
+    "demands": "1.5/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-10-18T13:53:01",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "x2CandyCorn",
+    "texts": "x2 Candy Corn",
+    "image": {
+      "main": "104890046038954",
+      "backup": "1hqsWOCmee5eGhYsGA8WWYrRw6k4Fni4r"
+    },
+    "values": "3k+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "item",
+    "added_date": "2025-10-18T13:54:00",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "witchleaf",
+    "texts": "Witchleaf",
+    "image": {
+      "main": "112496529453706",
+      "backup": "1YjVFXUuqCJhWZZG2SlwQ4CmENpIS56Dk"
+    },
+    "values": "65k+ -> 80k+ (O/C)",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-10-18T13:54:00",
+    "edited_date": "2026-08-23T23:46:12.509Z"
+  },
+  {
+    "unitKey": "rainbowPumpkin",
+    "texts": "Rainbow Pumpkin",
+    "image": {
+      "main": "76280731505322",
+      "backup": "1Nd-mIZ9MxA6nTNLL7FmJqVUzdUw-hm7r"
+    },
+    "values": "4+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-18T13:56:08",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "frankensprout",
+    "texts": "Frankensprout",
+    "image": {
+      "main": "127831201524794",
+      "backup": "1YQUZ45JvfBIGP1fO_SblexpII0taUEnw"
+    },
+    "values": "285+",
+    "demands": "5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-10-18T13:57:12",
+    "edited_date": "2026-07-24T22:23:49.147Z"
+  },
+  {
+    "unitKey": "corruptedStem",
+    "texts": "Corrupted Stem",
+    "image": {
+      "main": "115397705543029",
+      "backup": "12V152Z-2bRAC7ahHAGA27Ar0xt0klIMf"
+    },
+    "values": "7.4k+",
+    "demands": "8/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-18T13:58:04",
+    "edited_date": "2026-08-31T23:39:25.320Z"
+  },
+  {
+    "unitKey": "graveCrawler",
+    "texts": "Grave Crawler",
+    "image": {
+      "main": "91159929937449",
+      "backup": "1MaZ1opVKrSe1TLfE0qLIS7-2zqG0GB_y"
+    },
+    "values": "135+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2025-10-25T11:56:36",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "mummifiedPepper",
+    "texts": "Mummified Pepper",
+    "image": {
+      "main": "86219043655242",
+      "backup": "1jccJIzmvZcLE00WwLVUvokb6HvoJKBUz"
+    },
+    "values": "25+",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-10-25T11:58:53",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "ghostShroom",
+    "texts": "Ghost Shroom",
+    "image": {
+      "main": "139122086558653",
+      "backup": "1sJl8KzIs3YrOos0k-hDBwiAk6kG0CoJ3"
+    },
+    "values": "715+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-10-25T11:59:34",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "rainbowScarecrow",
+    "texts": "Rainbow Scarecrow",
+    "image": {
+      "main": "96193477177834",
+      "backup": "1-iFaoRX09e2DxsXivf7V3tD-C9qS4PsU"
+    },
+    "values": "4+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-25T12:01:56",
+    "edited_date": "2026-07-08T23:51:25.308Z"
+  },
+  {
+    "unitKey": "nightspire",
+    "texts": "Nightspire",
+    "image": {
+      "main": "136001077245815",
+      "backup": "1UT2XjRIJtU58VoSZcr13mJFl_aI0ZXKy"
+    },
+    "values": "160+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-25T12:02:38",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "aethervine",
+    "texts": "Aethervine",
+    "image": {
+      "main": "107158603036280",
+      "backup": "1vfkJxeO7krCd6zP_r3faITusrRoVfhhb"
+    },
+    "values": "480+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-10-25T12:03:08",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "rainbowPumpkrawler",
+    "texts": "Rainbow Pumpkrawler",
+    "image": {
+      "main": "118913745606001",
+      "backup": "1ECVXGK5lTbgQoLpazBKJ-4G-g9z2gF36"
+    },
+    "values": "5+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-01T11:12:51",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "teslaflora",
+    "texts": "Teslaflora",
+    "image": {
+      "main": "130644551630302",
+      "backup": "1DLXsc8FNum7h-ufMTPFIMMv7_Et9jpT4"
+    },
+    "values": "8.2K+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-01T11:14:09",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "infernoBloom",
+    "texts": "Inferno Bloom",
+    "image": {
+      "main": "129261742035173",
+      "backup": "1WnJY5PB4miz9SdnI47dFRZSss31kryDO"
+    },
+    "values": "195+",
+    "demands": "2/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-11-01T11:14:55",
+    "edited_date": "2026-07-20T22:37:25.170Z"
+  },
+  {
+    "unitKey": "mazeCreeper",
+    "texts": "Maze Creeper",
+    "image": {
+      "main": "134365250075035",
+      "backup": "1SQ9CXe6-0mmFDdn_5egIzBQi8dfwEw08"
+    },
+    "values": "10+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-01T11:50:33",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "sawOLantern",
+    "texts": "Saw O'Lantern",
+    "image": {
+      "main": "92950184437621",
+      "backup": "1iz5h2r0EUGV3boz08I5Q8v3YadwoZJ_b"
+    },
+    "values": "0.5",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-01T11:51:17",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "aurabloom",
+    "texts": "Aurabloom",
+    "image": {
+      "main": "86969562145105",
+      "backup": "1-TU58a5ga05XB79elzbi6YTQrQhuQfM5"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2025-11-08T11:17:42",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "enchantingRose",
+    "texts": "Enchanting Rose",
+    "image": {
+      "main": "138699022894639",
+      "backup": "164rIR1JQdKBZ4sq-_34uiiyrsi6zigfS"
+    },
+    "values": "260+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-11-08T11:19:36",
+    "edited_date": "2026-07-20T22:37:25.170Z"
+  },
+  {
+    "unitKey": "gardenWizard",
+    "texts": "Garden Wizard",
+    "image": {
+      "main": "72092553107382",
+      "backup": "1htzuAcCqsPtzYW17ESR9gEuU5wp3JXI_"
+    },
+    "values": "142+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-11-08T11:20:30",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "bloominator",
+    "texts": "Bloominator",
+    "image": {
+      "main": "70600484864576",
+      "backup": "1CDfvGatDIEQRF1bFiuRwyfJmOnIcmpat"
+    },
+    "values": "165+",
+    "demands": "1.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-11-08T11:21:57",
+    "edited_date": "2026-07-12T22:27:53.326Z"
+  },
+  {
+    "unitKey": "starFruit",
+    "texts": "Star Fruit",
+    "image": {
+      "main": "83303757873859",
+      "backup": "1Gt55a-iatUZMX_02b2kbiW92eM47yfCZ"
+    },
+    "values": "360+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-08T11:22:34",
+    "edited_date": "2026-08-13T22:45:21.854Z"
+  },
+  {
+    "unitKey": "multisawflower",
+    "texts": "Multisawflower",
+    "image": {
+      "main": "93814026697470",
+      "backup": "1-1erDp3klt9SVES9T-xxha397EbQcrpH"
+    },
+    "values": "170+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-15T12:37:57",
+    "edited_date": "2026-08-29T21:57:11.825Z"
+  },
+  {
+    "unitKey": "wateringCan",
+    "texts": "Watering Can",
+    "image": {
+      "main": "105730028538742",
+      "backup": "11JxRwQNrloiNiH0Bhi0Vfk8xvaAIr8Fq"
+    },
+    "values": "840+",
+    "demands": "6/10",
+    "status": "Slowly Rising",
+    "rarity": "exclusive",
+    "added_date": "2025-11-15T12:38:28",
+    "edited_date": "2026-08-21T22:52:03.951Z"
+  },
+  {
+    "unitKey": "bronzeFrankensprout",
+    "texts": "Bronze Frankensprout",
+    "image": {
+      "main": "81560204087893",
+      "backup": "1HkRuf26PIETcTCGxO6rpl6wK_vpmbZzp"
+    },
+    "values": "O/C",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-15T12:39:09",
+    "edited_date": "2026-02-05T02:24:38.638"
+  },
+  {
+    "unitKey": "silverFrankensprout",
+    "texts": "Silver Frankensprout",
+    "image": {
+      "main": "92721059505709",
+      "backup": "1XTo8XsdqMl3dkkrqnfGgtjY2Yl9raOlD"
+    },
+    "values": "O/C",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-15T12:39:44",
+    "edited_date": "2026-02-05T02:24:46.722"
+  },
+  {
+    "unitKey": "goldFrankensprout",
+    "texts": "Gold Frankensprout",
+    "image": {
+      "main": "109193014434750",
+      "backup": "1RyuIm2_hGs4jOvHNpFY6ptVTa_hVFuD8"
+    },
+    "values": "24k+ -> 29k+ (O/C)",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-15T12:40:18",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "glassThornzilla",
+    "texts": "Glass Thornzilla",
+    "image": {
+      "main": "99823233374016",
+      "backup": "1uVgXOOspX23Bhs3dcrmv7lmNIpSVBDAB"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-15T12:40:54",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "ironIris",
+    "texts": "Ion Iris",
+    "image": {
+      "main": "90873450605079",
+      "backup": "15VL20IPsVHH8RAW_VXEk_pTDe3A6rUEB"
+    },
+    "values": "200+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-22T13:31:26",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "octoshroom",
+    "texts": "Octoshroom",
+    "image": {
+      "main": "103457223948276",
+      "backup": "17GlNDcjPIX4V2PGp8ql8iOOiMjO93h-y"
+    },
+    "values": "170+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-22T13:32:03",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "bananaPeel",
+    "texts": "Banana Peel",
+    "image": {
+      "main": "74242774681338",
+      "backup": "12K5ju_fNiuKExHkinppBS8dDravYlGjc"
+    },
+    "values": "255+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-11-22T13:33:24",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "diamondNightshade",
+    "texts": "Diamond Nightshade",
+    "image": {
+      "main": "140715757320741",
+      "backup": "13uCYBwzb82LgTVOSK5yRrLVXsCdWycFv"
+    },
+    "values": "2.13k+",
+    "demands": "1/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-22T13:34:56",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "mastersBananaPeel",
+    "texts": "Masters Banana Peel",
+    "image": {
+      "main": "94188407305592",
+      "backup": "1bZ-GtEDNA3v54rCfqR801UE5XHcr1OPd"
+    },
+    "values": "4.4k+",
+    "demands": "4/10",
+    "status": "Outdated",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-22T13:35:50",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "championsBeeStinger",
+    "texts": "Champions Bee Stinger",
+    "image": {
+      "main": "114515942517732",
+      "backup": "1UBlrenPxf5xlaaRaDre0eMAeoDvGSrhf"
+    },
+    "values": "8k+ -> 15.4k+ (O/C)",
+    "demands": "5/10",
+    "status": "Outdated",
+    "rarity": "leaderboard",
+    "added_date": "2025-11-22T13:36:49",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "kaboomShroom",
+    "texts": "Kaboom Shroom",
+    "image": {
+      "main": "140250544950409",
+      "backup": "14bn8sD0rWwDHsyBPEighEA1E5enpNKqC"
+    },
+    "values": "100+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-29T12:45:48",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "dreamPetal",
+    "texts": "Dream Petal",
+    "image": {
+      "main": "72784847020016",
+      "backup": "1q2D6lWnmgcJBij53VOE0kgnHCsqktqDq"
+    },
+    "values": "210+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-11-29T12:47:20",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "sandboxMode",
+    "texts": "Sandbox Mode",
+    "image": {
+      "main": "3466948082",
+      "backup": "11vBda1je-fMY_QXYyvm5ObWBzNbJ43q1"
+    },
+    "values": "2k+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "item",
+    "added_date": "2025-11-29T12:50:26",
+    "edited_date": "2026-08-09T23:11:56.344Z"
+  },
+  {
+    "unitKey": "bronzeFrostGolem",
+    "texts": "Bronze Frost Golem",
+    "image": {
+      "main": "88132589563767",
+      "backup": "1I8Dc_QjXoeRB9KsGRI1y3nKArI-iNgrq"
+    },
+    "values": "O/C",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2025-12-06T11:44:17",
+    "edited_date": "2026-02-05T02:24:58.119"
+  },
+  {
+    "unitKey": "silverFrostGolem",
+    "texts": "Silver Frost Golem",
+    "image": {
+      "main": "121243060464919",
+      "backup": "1KY44-oMaiTMyzzitWOWV2cgFfK43PMNj"
+    },
+    "values": "11k+ -> 14.5k+ (O/C)",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-12-06T11:44:57",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "goldFrostGolem",
+    "texts": "Gold Frost Golem",
+    "image": {
+      "main": "103953204217501",
+      "backup": "1vMr4GvH00i_-nInnEv3J1pJjr7YAK_fp"
+    },
+    "values": "20k+ -> 25k+ (O/C)",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2025-12-06T11:45:34",
+    "edited_date": "2026-07-24T22:23:49.146Z"
+  },
+  {
+    "unitKey": "snowspore",
+    "texts": "Snowspore",
+    "image": {
+      "main": "88221859850349",
+      "backup": "1Ou9Squ8fTrRK8rVr4bP1K2VIuHIU4KVB"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2025-12-06T12:50:30",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "snowblossom",
+    "texts": "Snowblossom",
+    "image": {
+      "main": "137560043041048",
+      "backup": "133NbE9N3gkygLzwARyCdhdSJuBIadAjT"
+    },
+    "values": "65+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2025-12-06T12:51:57",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "subzeroStem",
+    "texts": "Subzero Stem",
+    "image": {
+      "main": "94812574438713",
+      "backup": "1B7nb9qgN0evpncxwRZKNmhRKaReFNqMz"
+    },
+    "values": "8.87k+",
+    "demands": "7.5/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-12-06T12:52:46",
+    "edited_date": "2026-08-09T23:11:56.344Z"
+  },
+  {
+    "unitKey": "frostGolem",
+    "texts": "Frost Golem",
+    "image": {
+      "main": "111545608036427",
+      "backup": "1SBoROxn4ynYSnjlH8nUy33bZV7yZyFol"
+    },
+    "values": "995+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-12-06T12:55:01",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "candycaneBloom",
+    "texts": "Candycane Bloom",
+    "image": {
+      "main": "123126387716527",
+      "backup": "1qJp504sb99uPwdDuKwIK68DrRQwgrN8P"
+    },
+    "values": "220+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-12-06T12:55:51",
+    "edited_date": "2026-08-29T21:57:11.825Z"
+  },
+  {
+    "unitKey": "x2PresentsGift",
+    "texts": "x2 Presents",
+    "image": {
+      "main": "97074259809412",
+      "backup": "1S1QFB66gmw0IzqJHKKGBLBYNzOqmhP78"
+    },
+    "values": "485+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "item",
+    "added_date": "2025-12-06T14:09:07",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "glassSnowspore",
+    "texts": "Glass Snowspore",
+    "image": {
+      "main": "139671074418849",
+      "backup": "1eq3Fna7NRtx2DHe3xsS9AiWB3cCuQOrk"
+    },
+    "values": "65+",
+    "demands": "1/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-12-06T20:28:29",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "iceDragon",
+    "texts": "Ice Dragon",
+    "image": {
+      "main": "77837499118337",
+      "backup": "1XX_T5xwkgIjZZRssT-oGJzFxvGjSTcTc"
+    },
+    "values": "420+",
+    "demands": "3/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-12-13T12:54:45",
+    "edited_date": "2026-08-05T22:54:13.519Z"
+  },
+  {
+    "unitKey": "plantInTheBox",
+    "texts": "Plant In The Box",
+    "image": {
+      "main": "86182968792838",
+      "backup": "1QcqE2CPTxZyBon1CMNhq_7aDoEKKY1vR"
+    },
+    "values": "150+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2025-12-13T12:55:33",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "festiveGardenBell",
+    "texts": "Festive Garden Warbell",
+    "image": {
+      "main": "135205242112074",
+      "backup": "1LjtSUiReAmGKpNB0JRpRlO5wYN_tmTqK"
+    },
+    "values": "6.75k+",
+    "demands": "6.5/10",
+    "status": "Inflated",
+    "rarity": "exclusive",
+    "added_date": "2025-12-20T12:30:14",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "snowmobileShoveler",
+    "texts": "Snowmobile Shoveler",
+    "image": {
+      "main": "101663544144118",
+      "backup": "1Z4LiDg6oGPl20VCW3jNQG-3mhV3qjE30"
+    },
+    "values": "350+",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "low-rarity-valuable",
+    "added_date": "2025-12-20T12:52:32",
+    "edited_date": "2026-07-17T00:15:29.313Z"
+  },
+  {
+    "unitKey": "cryolesia",
+    "texts": "Cryolesia",
+    "image": {
+      "main": "71974168587322",
+      "backup": "1HOFJK5aSXZdF_7Ps5LFB1QDZxLCbgXq5"
+    },
+    "values": "435+",
+    "demands": "4.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-12-20T12:57:15",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "snowman",
+    "texts": "Snowman",
+    "image": {
+      "main": "70519965274719",
+      "backup": "10YkljHQ98Cj4UmfOgWXmdGHP5Ompvvtw"
+    },
+    "values": "4.4k+",
+    "demands": "4.5/10",
+    "status": "Slowly Rising",
+    "rarity": "low-rarity-valuable",
+    "added_date": "2025-12-20T21:26:04",
+    "edited_date": "2026-08-07T22:44:33.287Z"
+  },
+  {
+    "unitKey": "candycaneSupernova",
+    "texts": "Peppermint Supernova",
+    "image": {
+      "main": "137839719735037",
+      "backup": "1iOZCxQJ0j32NiXW6xsy3qNXVv3swTGBD"
+    },
+    "values": "335+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2025-12-25T12:38:18",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "winterrayFlower",
+    "texts": "Winterray Flower",
+    "image": {
+      "main": "132670018355777",
+      "backup": "1RgPMbdKq0ddn6DHBs12dY-tQe1NVY5WK"
+    },
+    "values": "4.81k+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2025-12-25T12:39:10",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "festiveBulbpetal",
+    "texts": "Festive Bulbpetal",
+    "image": {
+      "main": "111978122889330",
+      "backup": "1k6H_6xQESUlduA4H0z-3aVetPRyk9oSN"
+    },
+    "values": "290+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2025-12-25T12:40:21",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "icedPrismflower",
+    "texts": "Iced Prismflower",
+    "image": {
+      "main": "112783738749839",
+      "backup": "10QjXxIVF52bRJdTj15tkHSMotO1kCvJi"
+    },
+    "values": "485+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-12-25T12:41:15",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "festiveGlowthorn",
+    "texts": "Festive Glowthorn",
+    "image": {
+      "main": "114488831380214",
+      "backup": "1eiMl2fXW07u0OIEoU1dJIpeCbtTVgIWa"
+    },
+    "values": "1.16k+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2025-12-25T12:41:54",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "gingerbreadSeedmill",
+    "texts": "Gingerbread Seedmill",
+    "image": {
+      "main": "84663156936661",
+      "backup": "1WYbVDUP17aB_jQ0lmo9FUz0MRIV6I3N2"
+    },
+    "values": "2.65k+",
+    "demands": "4/10",
+    "status": "Unstable",
+    "rarity": "legendary",
+    "added_date": "2025-12-25T13:00:25",
+    "edited_date": "2026-07-14T22:44:28.234Z"
+  },
+  {
+    "unitKey": "gnomebang",
+    "texts": "Gnomebang",
+    "image": {
+      "main": "119005306929415",
+      "backup": "1dAf0ENv79H07a_DQxtD_b3QABsVh6k8-"
+    },
+    "values": "180+",
+    "demands": "2/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-01-03T14:50:55",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "rocketroot",
+    "texts": "Rocketroot",
+    "image": {
+      "main": "88349538826272",
+      "backup": "1fspYy7SJhcIa7JS7jfBeDbM2ody-Mq_B"
+    },
+    "values": "190+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-01-03T14:51:31",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "glassDashroom",
+    "texts": "Glass Dashroom",
+    "image": {
+      "main": "90452638500897",
+      "backup": "1mCbsJnpncEk3FfxgAMMQmyYPN1aBA4n7"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-01-03T14:52:43",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "bronzeVenusFlytrap",
+    "texts": "Bronze Venus Flytrap",
+    "image": {
+      "main": "75201909772659",
+      "backup": "1yici4KkKEn-QA0g0oyksr7Y-SDuEgCe2"
+    },
+    "values": "O/C",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2026-01-03T14:55:22",
+    "edited_date": "2026-02-05T02:25:14.914"
+  },
+  {
+    "unitKey": "silverVenusFlytrap",
+    "texts": "Silver Venus Flytrap",
+    "image": {
+      "main": "137605509455370",
+      "backup": "1E6C4kvDbbbHeViE9PJyosyEIeSGs3zSn"
+    },
+    "values": "O/C",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2026-01-03T14:55:52",
+    "edited_date": "2026-02-05T02:25:20.032"
+  },
+  {
+    "unitKey": "goldVenusFlytrap",
+    "texts": "Gold Venus Flytrap",
+    "image": {
+      "main": "140112220860714",
+      "backup": "1Eh6hU6P_zbwFK6RQB4Foz8vpf6WHAasg"
+    },
+    "values": "O/C",
+    "demands": "10/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2026-01-03T14:56:22",
+    "edited_date": "2026-02-05T02:25:25.971"
+  },
+  {
+    "unitKey": "splitjawFlytrap",
+    "texts": "Splitjaw Flytrap",
+    "image": {
+      "main": "140297806922394",
+      "backup": "1lvO-yBBRPXeb6Hxy8lZ6yLzwi0HzLcAi"
+    },
+    "values": "110+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-01-10T11:48:33",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "obsidianRose",
+    "texts": "Obsidian Rose",
+    "image": {
+      "main": "103825406079577",
+      "backup": "10clZ-9c734bo5r2sSYIztjLWf9r176T4"
+    },
+    "values": "140+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-01-10T11:49:15",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "bouncingShroom",
+    "texts": "Bouncing Shroom",
+    "image": {
+      "main": "111794904825192",
+      "backup": "1Pvr279Adsec__sX0-72kuwemm4CFr0Jk"
+    },
+    "values": "1.96k+",
+    "demands": "8/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-01-17T11:17:55",
+    "edited_date": "2026-08-25T23:27:38.574Z"
+  },
+  {
+    "unitKey": "galaxiflora",
+    "texts": "Galaxiflora",
+    "image": {
+      "main": "82073922240471",
+      "backup": "17J0LseJbuVxtfqLArA9Eew7mnbqBj7dZ"
+    },
+    "values": "72+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-01-17T11:19:07",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "zapseed",
+    "texts": "Zapseed",
+    "image": {
+      "main": "77823057732611",
+      "backup": "11S7jkOTgPPEr-2d_fX8rxRplbMr0404G"
+    },
+    "values": "15+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-01-17T11:19:39",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "echofern",
+    "texts": "Echofern",
+    "image": {
+      "main": "90062086866915",
+      "backup": "1AVaLfmC3RJsSmRXeUG-nTef6WRTG7RTV"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-01-17T11:20:22",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "toxibud",
+    "texts": "Toxibud",
+    "image": {
+      "main": "128646488961650",
+      "backup": "15Oe9kIZsYjh98J0lPK3ZcgASyN4mO5BU"
+    },
+    "values": "82.5",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-01-17T11:21:36",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "regenerationFlower",
+    "texts": "Regeneration Flower",
+    "image": {
+      "main": "73780540616394",
+      "backup": "1zLOv23uuhyFSHYXu0bh-PxBIGoZREJ38"
+    },
+    "values": "1.17K+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-01-17T11:22:11",
+    "edited_date": "2026-08-29T23:28:36.383Z"
+  },
+  {
+    "unitKey": "blazewood",
+    "texts": "Blazewood",
+    "image": {
+      "main": "78010357398835",
+      "backup": "11BjMloRA45lkrZfyBbmepJE-qqTfrLZL"
+    },
+    "values": "140+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-01-24T11:16:16",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "irisOfThorns",
+    "texts": "Iris Of Thorns",
+    "image": {
+      "main": "100016341614394",
+      "backup": "14bCLpl9m_FxVywKiaSmapTS1wbe5RwAi"
+    },
+    "values": "180+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-01-24T11:17:02",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "toxicMushroom",
+    "texts": "Toxic Mushroom",
+    "image": {
+      "main": "86809891650430",
+      "backup": "1B31BDsg4Ik1SwwJv9Eo8MoaCe1QxWITe"
+    },
+    "values": "110+",
+    "demands": "4/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-01-31T13:13:40",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "lavaFlower",
+    "texts": "Lava Flower",
+    "image": {
+      "main": "140270343846590",
+      "backup": "1DPJsPSAxbtoyWANByfdUg46Ic-nAUQLo"
+    },
+    "values": "255+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-01-31T13:14:09",
+    "edited_date": "2026-07-20T22:37:25.170Z"
+  },
+  {
+    "unitKey": "shufflecap",
+    "texts": "Shufflecap",
+    "image": {
+      "main": "98028857835518",
+      "backup": "1EIOmnvXbqn-sj6KQV0sASlRybd2IPeVR"
+    },
+    "values": "140+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-02-07T16:48:59",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "transfigurationFlower",
+    "texts": "Transfiguration Flower",
+    "image": {
+      "main": "94760376835022",
+      "backup": "15Xn1iZfnpYv9RXaxYzaDf3-boX8PTN4l"
+    },
+    "values": "8.7k+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-02-07T16:49:51",
+    "edited_date": "2026-09-03T00:23:35.051Z"
+  },
+  {
+    "unitKey": "charmBlossom",
+    "texts": "Charm Blossom",
+    "image": {
+      "main": "94781632231099",
+      "backup": "18dKae32dayYLAvpVa3Ltv8h5zb7fowtT"
+    },
+    "values": "270+",
+    "demands": "2/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-02-14T15:57:02",
+    "edited_date": "2026-07-28T23:46:54.156Z"
+  },
+  {
+    "unitKey": "loveburstBloom",
+    "texts": "Loveburst Bloom",
+    "image": {
+      "main": "114336040802959",
+      "backup": "11r33O0aEkkgQaWF0DMzlRvOwdbc-gUA6"
+    },
+    "values": "210+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-02-14T15:57:45",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "butterflyHut",
+    "texts": "Butterfly Hut",
+    "image": {
+      "main": "81029287169749",
+      "backup": "13eEimWllXyis2UERJrs749FKCYYOPa1v"
+    },
+    "values": "425+",
+    "demands": "5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-02-21T11:57:59",
+    "edited_date": "2026-07-14T22:44:28.234Z"
+  },
+  {
+    "unitKey": "darkSharpetal",
+    "texts": "Dark Shardpetal",
+    "image": {
+      "main": "99975437999124",
+      "backup": "1mhFr7EiDlnGpL0Gs--b_TStZllUP87KA"
+    },
+    "values": "250+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-02-21T11:58:36",
+    "edited_date": "2026-07-31T00:15:12.002Z"
+  },
+  {
+    "unitKey": "quantumStalk",
+    "texts": "Quantum Stalk",
+    "image": {
+      "main": "103032355717431",
+      "backup": "17cbEln1qMcyWRQy-xSI3tx9toXm9FEQB"
+    },
+    "values": "7+",
+    "demands": "1/10",
+    "status": "Fluctuating",
+    "rarity": "legendary",
+    "added_date": "2026-02-28T11:33:58",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "celestialStem",
+    "texts": "Celestial Stem",
+    "image": {
+      "main": "91877425925692",
+      "backup": "1QjWfZ5tQ_sFkrWY3RC3meqvWp-WY64EE"
+    },
+    "values": "66+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-02-28T11:35:15",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "distortionFlower",
+    "texts": "Distortion Flower",
+    "image": {
+      "main": "136764494395636",
+      "backup": "1CFscpDrCQSoKIZRQSEGjzrEvxnzeSRtP"
+    },
+    "values": "735+",
+    "demands": "4/10",
+    "status": "Slowly Rising",
+    "rarity": "godly",
+    "added_date": "2026-02-28T11:35:45",
+    "edited_date": "2026-07-31T00:15:12.002Z"
+  },
+  {
+    "unitKey": "astraflora",
+    "texts": "Astraflora",
+    "image": {
+      "main": "72802813550275",
+      "backup": "1m07-i0yZeklCLXS4c6mJja3Gw8tP0XFv"
+    },
+    "values": "755+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-02-28T11:41:08",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "holographicClover",
+    "texts": "Holographic Clover",
+    "image": {
+      "main": "77583572647407",
+      "backup": "1CiqEUVhMRvnhsZwAcRJMTuLkGQRMfmsE"
+    },
+    "values": "5.95k+",
+    "demands": "7/10",
+    "status": "Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-02-28T11:41:53",
+    "edited_date": "2026-08-31T23:39:25.320Z"
+  },
+  {
+    "unitKey": "glassPlasmaPetal",
+    "texts": "Glass Plasma Petal",
+    "image": {
+      "main": "102819232580848",
+      "backup": "12JOYohAthBvo-Cr8GqSdXonjQCPIrnYg"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-02-28T11:42:26",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "bronzeAstraflora",
+    "texts": "Bronze Astraflora",
+    "image": {
+      "main": "134381895798957",
+      "backup": "1Hp4sK2YlahWd9dv57P3TU4UZkczaIijU"
+    },
+    "values": "15k+ -> 25k+ (O/C)",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2026-02-28T11:43:03",
+    "edited_date": "2026-07-08T23:33:19.337Z"
+  },
+  {
+    "unitKey": "silverAstraflora",
+    "texts": "Silver Astraflora",
+    "image": {
+      "main": "136426852338606",
+      "backup": "1OI2wU5sQvnpwecttOuY8xA-YOt_iR5X1"
+    },
+    "values": "25.5k+ -> 44k+ (O/C)",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2026-02-28T11:43:35",
+    "edited_date": "2026-07-08T23:51:25.308Z"
+  },
+  {
+    "unitKey": "goldAstraflora",
+    "texts": "Gold Astraflora",
+    "image": {
+      "main": "84140371675637",
+      "backup": "1Z2SafZerX-LUtN5sRNCT_-rhBwKq5p9n"
+    },
+    "values": "39.35k+ -> 43.35k+ (O/C)",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2026-02-28T11:44:04",
+    "edited_date": "2026-08-25T23:27:38.568Z"
+  },
+  {
+    "unitKey": "x2SpaceGemsGift",
+    "texts": "x2 Space Gems",
+    "image": {
+      "main": "90956844974499",
+      "backup": "1U5pnu0TYQmarW5fjQ8mntw8UNnP_-jui"
+    },
+    "values": "420+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "item",
+    "added_date": "2026-02-28T11:53:45",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "shockshroom",
+    "texts": "Shockshroom",
+    "image": {
+      "main": "85201085796378",
+      "backup": "1VW68TKk121JNGpvmbl2ZNUVvqo8TwQ3f"
+    },
+    "values": "520+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-03-07T13:15:36",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "gemspire",
+    "texts": "Gemspire",
+    "image": {
+      "main": "118737772748615",
+      "backup": "1tCwBnOYv-FXPm0jWR0V7H3Wkr7nKGisv"
+    },
+    "values": "180+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-07T13:16:26",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "shroomOverlord",
+    "texts": "Shroom Overlord",
+    "image": {
+      "main": "76641020540833",
+      "backup": "1mqXy90Uco8Q-UMx8gukW6GzrYCH7-ITN"
+    },
+    "values": "200+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-14T12:56:08",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "cornCommander",
+    "texts": "Corn Commander",
+    "image": {
+      "main": "140405760236771",
+      "backup": "1ArIQtIf4vZfx1DY4qA-EG3kr3i2lkSqr"
+    },
+    "values": "285+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-14T12:56:57",
+    "edited_date": "2026-07-28T23:46:54.156Z"
+  },
+  {
+    "unitKey": "seedmill",
+    "texts": "Seedmill",
+    "image": {
+      "main": "127171494268943",
+      "backup": "1OZN32JKZz02S6nYsRA235zNKZewKy3Sq"
+    },
+    "values": "460+",
+    "demands": "5/10",
+    "status": "Stable",
+    "rarity": "legendary",
+    "added_date": "2026-03-14T12:57:28",
+    "edited_date": "2026-08-21T22:52:03.951Z"
+  },
+  {
+    "unitKey": "birdFountain",
+    "texts": "Bird Fountain",
+    "image": {
+      "main": "93534431519505",
+      "backup": "1dttxWmO301wXCL8ccuRR3o1iTHnOgomj"
+    },
+    "values": "700+",
+    "demands": "7/10",
+    "status": "Slowly Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-03-21T11:40:59",
+    "edited_date": "2026-07-26T22:57:30.691Z"
+  },
+  {
+    "unitKey": "powerstem",
+    "texts": "Powerstem",
+    "image": {
+      "main": "136734955190802",
+      "backup": "1iTP8yXtJ5INXrvFQnq6Ax_8wIaBE2ozI"
+    },
+    "values": "195+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-21T11:41:53",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "infectia",
+    "texts": "Infectia",
+    "image": {
+      "main": "103101907188846",
+      "backup": "15sEv--_Mx3usJbJrlLvBhzq8o0Fe3Xji"
+    },
+    "values": "19.35k+",
+    "demands": "9/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-03-21T11:44:04",
+    "edited_date": "2026-08-31T23:39:25.320Z"
+  },
+  {
+    "unitKey": "bronzeInfectia",
+    "texts": "Bronze Infectia",
+    "image": {
+      "main": "81852774434964",
+      "backup": "1rgq7p9sJ-gOkj7MNUZgUYlukb1OmdpQf"
+    },
+    "values": "26.5k+ -> 30.5k+",
+    "demands": "4/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-21T11:45:42",
+    "edited_date": "2026-08-09T23:11:56.338Z"
+  },
+  {
+    "unitKey": "silverInfectia",
+    "texts": "Silver Infectia",
+    "image": {
+      "main": "90155338157431",
+      "backup": "12bJi3gPB8dDqYGMB_dw34fYlEjxDK9vc"
+    },
+    "values": "21k+ -> 25k+ (O/C)",
+    "demands": "3/10",
+    "status": "Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-03-21T11:46:19",
+    "edited_date": "2026-07-14T22:44:28.234Z"
+  },
+  {
+    "unitKey": "goldInfectia",
+    "texts": "Gold Infectia",
+    "image": {
+      "main": "131732998735136",
+      "backup": "1GlD1ssg6kMJzO1ljCj3Ua_79NFNaPWJx"
+    },
+    "values": "82k+ -> 90k+ (O/C)",
+    "demands": "4/10",
+    "status": "Inflated",
+    "rarity": "exclusive",
+    "added_date": "2026-03-21T11:48:02",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "laserLily",
+    "texts": "Laser Lily",
+    "image": {
+      "main": "127900601505022",
+      "backup": "1N7JUqh0DoSKpV-jRP3jp2LyAZGqFDpnj"
+    },
+    "values": "155+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:30:41",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "chickenCoop",
+    "texts": "Chicken Coop",
+    "image": {
+      "main": "74398306504576",
+      "backup": "1OTEIV8JxSHgWjy7D-fMQV05V4F7xU6K_"
+    },
+    "values": "5k+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:31:55",
+    "edited_date": "2026-08-20T00:13:45.447Z"
+  },
+  {
+    "unitKey": "confusiflora",
+    "texts": "Confusiflora",
+    "image": {
+      "main": "104106445159307",
+      "backup": "1de0R5oFSebNYgsZG1Cvy3_VvYNVpDgi5"
+    },
+    "values": "2.17k+",
+    "demands": "7/10",
+    "status": "Slowly Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:33:06",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "bronzeChickenCoop",
+    "texts": "Bronze Chicken Coop",
+    "image": {
+      "main": "115231825720889",
+      "backup": "1Pa9D4s6rPIk9dvNfPKUk4qfz_hlCPBp1"
+    },
+    "values": "12.05k+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:33:44",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "silverChickenCoop",
+    "texts": "Silver Chicken Coop",
+    "image": {
+      "main": "96981511484021",
+      "backup": "1TtPXfzfCFxgVrHLmt3kacb9ur1FTiIa0"
+    },
+    "values": "17.95k+ -> 21.95k+ (O/C)",
+    "demands": "4.5/10",
+    "status": "Outdated",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:34:17",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "goldChickenCoop",
+    "texts": "Gold Chicken Coop",
+    "image": {
+      "main": "104253644071102",
+      "backup": "1GwkZ9fB_IyVHSV3Y9p4Bq-ssgadQ4Hpu"
+    },
+    "values": "120k+ (O/C)",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:34:49",
+    "edited_date": "2026-07-20T22:37:25.169Z"
+  },
+  {
+    "unitKey": "bronzeConfusiflora",
+    "texts": "Bronze Confusiflora",
+    "image": {
+      "main": "116536794903275",
+      "backup": "1hCQha6jHf40oPPE_vGu_YsEvxwC1Dht1"
+    },
+    "values": "4.24k+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:35:18",
+    "edited_date": "2026-08-20T00:13:45.447Z"
+  },
+  {
+    "unitKey": "silverConfusiflora",
+    "texts": "Silver Confusiflora",
+    "image": {
+      "main": "91399415115840",
+      "backup": "1fN_3EddETUT9XMGR1vnZLJADBhfEs03b"
+    },
+    "values": "3.45k+",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:35:49",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "goldConfusiflora",
+    "texts": "Gold Confusiflora",
+    "image": {
+      "main": "85405096083321",
+      "backup": "1bwEe66n26LK4BtWFu7fiQHVEoMSMFPKz"
+    },
+    "values": "30k+ -> 36k+ (O/C)",
+    "demands": "4/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-03-28T12:36:24",
+    "edited_date": "2026-08-15T21:45:50.973Z"
+  },
+  {
+    "unitKey": "shinyLumpOfCoal",
+    "texts": "Shiny Lump Of Coal",
+    "image": {
+      "main": "89157269110483",
+      "backup": "1UuDuv9VBIPPU0CsthjHU8T4EB7C3Gd0C"
+    },
+    "values": "40+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-01T18:38:03",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "eggbeamStem",
+    "texts": "Eggbeam Stem",
+    "image": {
+      "main": "82280329755723",
+      "backup": "1k3hDDYTWPFNSAPBvQrYi62h9usNDSxcI"
+    },
+    "values": "115+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-04-04T18:34:56",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "bloomscope",
+    "texts": "Bloomscope",
+    "image": {
+      "main": "80312266198729",
+      "backup": "1XYiVCQuZJsN0-6nnENfNp4EiT9U5mh72"
+    },
+    "values": "118+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-04-04T18:35:33",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "bunnyBurrow",
+    "texts": "Bunny Burrow",
+    "image": {
+      "main": "86172863959263",
+      "backup": "1fi5lbIMtvTZ167102arW3CudZD3UyTPv"
+    },
+    "values": "11.4k+",
+    "demands": "8/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-04-04T18:36:00",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "chocoflower",
+    "texts": "Chocoflower",
+    "image": {
+      "main": "85499339398772",
+      "backup": "1w2yp77Jasf8o04STSKI2mvhNTYMuADg6"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-04-04T19:50:33",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "silverBunnyBurrow",
+    "texts": "Silver Bunny Burrow",
+    "image": {
+      "main": "93685404210217",
+      "backup": "11HgrICgYWyXaUCmw7ukVmcDua2kxO3vP"
+    },
+    "values": "11.85k+",
+    "demands": "8/10",
+    "status": "Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-04-04T19:52:22",
+    "edited_date": "2026-08-17T22:38:10.859Z"
+  },
+  {
+    "unitKey": "goldBunnyBurrow",
+    "texts": "Gold Bunny Burrow",
+    "image": {
+      "main": "74152963481171",
+      "backup": "1rRuto2N25M4ne1l3IiiGkpjUqpgdXfNL"
+    },
+    "values": "17k+",
+    "demands": "5.5/10",
+    "status": "Inflated",
+    "rarity": "exclusive",
+    "added_date": "2026-04-04T19:52:52",
+    "edited_date": "2026-08-21T22:52:03.951Z"
+  },
+  {
+    "unitKey": "shockolateflora",
+    "texts": "Shockolateflora",
+    "image": {
+      "main": "139418511739255",
+      "backup": "1ijM6pp0hOsUIHSSbjYE8HHJ_TjDEO1Ne"
+    },
+    "values": "4.36k+",
+    "demands": "8/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-04T20:06:15",
+    "edited_date": "2026-08-31T23:39:25.320Z"
+  },
+  {
+    "unitKey": "x2EasterEggsGift",
+    "texts": "x2 Easter Eggs",
+    "image": {
+      "main": "139137808447450",
+      "backup": "19Tnrl4RqVMbAH14EWHmxdJIK-mi3MuHG"
+    },
+    "values": "673+",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "item",
+    "added_date": "2026-04-04T20:39:30",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "eggBasketstem",
+    "texts": "Egg Basketstem",
+    "image": {
+      "main": "136201913482394",
+      "backup": "1fMmF5jlULkFZAezLcMBE8-cU_2PHIrBa"
+    },
+    "values": "5.11k+",
+    "demands": "6/10",
+    "status": "Slowly Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-04-11T18:37:54",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "bunnyMech",
+    "texts": "Bunny Mech",
+    "image": {
+      "main": "71698213959844",
+      "backup": "15Isfh-g9X0Q49Vm9EUHUH-O6KjA89Pr0"
+    },
+    "values": "825+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-04-11T18:38:44",
+    "edited_date": "2026-08-25T23:27:38.574Z"
+  },
+  {
+    "unitKey": "eggfectiousVine",
+    "texts": "Eggfectious Vine",
+    "image": {
+      "main": "82563960211617",
+      "backup": "1fMa3VbChQGai9wB8SVxxEF5y3kdesNKP"
+    },
+    "values": "140+",
+    "demands": "N/A",
+    "status": "Unstable",
+    "rarity": "legendary",
+    "added_date": "2026-04-11T18:39:52",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "eggPetaladox",
+    "texts": "Egg Petaladox",
+    "image": {
+      "main": "82486088674404",
+      "backup": "1mBpegFx8IXGj2BG1LHfKsbbSvQygO3S9"
+    },
+    "values": "410+",
+    "demands": "3/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-04-11T18:41:04",
+    "edited_date": "2026-08-15T21:45:50.974Z"
+  },
+  {
+    "unitKey": "eggsnareSprout",
+    "texts": "Eggsnare Sprout",
+    "image": {
+      "main": "116765874723304",
+      "backup": "1NbnOsUAo-L9ZTtPCBwQC-XnSKVaBZXnm"
+    },
+    "values": "150+",
+    "demands": "1.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-04-11T18:43:31",
+    "edited_date": "2026-07-26T22:57:30.691Z"
+  },
+  {
+    "unitKey": "silverEggPetaladox",
+    "texts": "Silver Egg Petaladox",
+    "image": {
+      "main": "100007962889149",
+      "backup": "1LPs44JCJBWJgJg8ZN7PIytBtWydEjKht"
+    },
+    "values": "380+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-11T18:45:30",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "goldEggPetaladox",
+    "texts": "Gold Egg Petaladox",
+    "image": {
+      "main": "84223227015586",
+      "backup": "1w_RlSUZma2aAbhZc2oZYC_IFnSSlho7V"
+    },
+    "values": "870+",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-11T18:46:04",
+    "edited_date": "2026-07-08T23:33:19.338Z"
+  },
+  {
+    "unitKey": "blinkbloom",
+    "texts": "Blinkbloom",
+    "image": {
+      "main": "138138164087697",
+      "backup": "14QX3Tu_JwnVS2CVyAChJD8EUyxnPp5Xp"
+    },
+    "values": "2.15k+",
+    "demands": "6/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-18T16:39:05",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "firecoreStem",
+    "texts": "Firecore Stem",
+    "image": {
+      "main": "96973058169934",
+      "backup": "1tWpCInt8RPyq0R1b2daVu0kuaR3SP2Mb"
+    },
+    "values": "215+",
+    "demands": "3.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-18T16:39:39",
+    "edited_date": "2026-08-25T23:27:38.574Z"
+  },
+  {
+    "unitKey": "rainbowBloodvine",
+    "texts": "Rainbow Bloodvine",
+    "image": {
+      "main": "123593942967106",
+      "backup": "1c4FhSZNwgQAq3wrtvRMDtmf8s1dn-OnC"
+    },
+    "values": "620+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2026-04-25T12:09:42",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowGolem",
+    "texts": "Rainbow Golem",
+    "image": {
+      "main": "98721943242717",
+      "backup": "1AhXgJg4XA8ocxeW8KRWTKJDXkWtTtfCB"
+    },
+    "values": "65.35k+ -> 89.35k+ (O/C)",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2026-04-25T12:10:26",
+    "edited_date": "2026-07-14T22:44:28.234Z"
+  },
+  {
+    "unitKey": "rainbowDualBlasterbud",
+    "texts": "Rainbow Dual Blasterbud",
+    "image": {
+      "main": "72721128132566",
+      "backup": "1eoqCimbpSi5e6BDEVgJxo9eZBxcXLbNG"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2026-04-25T12:11:10",
+    "edited_date": "2026-05-15T23:58:51.655"
+  },
+  {
+    "unitKey": "rainbowBlossomBarrage",
+    "texts": "Rainbow Blossom Barrage",
+    "image": {
+      "main": "119684766130244",
+      "backup": "1iBPkFhpprRes2QxYFrlYXQspC7Naero0"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "Stable",
+    "rarity": "leaderboard",
+    "added_date": "2026-04-25T12:11:41",
+    "edited_date": "2026-05-15T23:58:45.896"
+  },
+  {
+    "unitKey": "rainbowSawflower",
+    "texts": "Rainbow Sawflower",
+    "image": {
+      "main": "126499000826761",
+      "backup": "1bnPMISDNgs3KEWlQuyNUl75reycvgDWy"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:12:32",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowDragonFruit",
+    "texts": "Rainbow Dragon Fruit",
+    "image": {
+      "main": "139972245680789",
+      "backup": "130Vhtb5ArdWG3CQ8YH5CEZTBGXww5o-Z"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:13:18",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowMushroom",
+    "texts": "Rainbow Mushroom",
+    "image": {
+      "main": "98886328041201",
+      "backup": "1mk47IMJBsTdk_DObjKDRs0oHFOHZ33rh"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:15:18",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowPakChoi",
+    "texts": "Rainbow Pak Choi",
+    "image": {
+      "main": "136087272933636",
+      "backup": "11c5mS7zetxJXfllYjbJVEWyu_-4BmPvi"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:16:05",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowLaserPlant",
+    "texts": "Rainbow Laser Plant",
+    "image": {
+      "main": "72133903181765",
+      "backup": "15qvqk5RkH_NpdUMSOUyDUsEzBbVfkPKC"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:16:43",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowPyropetal",
+    "texts": "Rainbow Pyropetal",
+    "image": {
+      "main": "76909292238875",
+      "backup": "1_Z8dvplFRuQKwrK24i42V7j_L-hhBVP6"
+    },
+    "values": "100+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:17:15",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "rainbowConfusionPlant",
+    "texts": "Rainbow Confusion Plant",
+    "image": {
+      "main": "94655205140305",
+      "backup": "18CDwEJJGppZGov1SillsxHVYQFT_fSGD"
+    },
+    "values": "4.2k+",
+    "demands": "2/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:17:43",
+    "edited_date": "2026-08-05T22:54:13.517Z"
+  },
+  {
+    "unitKey": "rainbowMoneyTree",
+    "texts": "Rainbow Money Tree",
+    "image": {
+      "main": "108596132145572",
+      "backup": "1za_18mxIcLqaaLd7qxCI6cUR21uliDVb"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:18:22",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "magnetroot",
+    "texts": "Magnetroot",
+    "image": {
+      "main": "133311504054938",
+      "backup": "1dEFQyJQYwUr1-2ipjyBY0nFv0RIzW6mL"
+    },
+    "values": "330+",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:18:59",
+    "edited_date": "2026-08-23T23:46:12.509Z"
+  },
+  {
+    "unitKey": "voidanium",
+    "texts": "Voidanium",
+    "image": {
+      "main": "92772247891213",
+      "backup": "1w67fZ1gUaYdNfK9awurLdutlxR7CHCeu"
+    },
+    "values": "585+",
+    "demands": "6/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-04-25T12:19:30",
+    "edited_date": "2026-08-23T23:46:12.509Z"
+  },
+  {
+    "unitKey": "x2GoldenTicketsGift",
+    "texts": "x2 Golden Tickets Gift",
+    "image": {
+      "main": "82344041528565",
+      "backup": "1RpJD-KVqDmMgZmFxFgWWpB6OwzTbVuWg"
+    },
+    "values": "650+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "item",
+    "added_date": "2026-04-25T13:07:27",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "hypnogazeStem",
+    "texts": "Hypnogaze Stem",
+    "image": {
+      "main": "117052019414653",
+      "backup": "1gaEdZj6Drd5y_WGcP8f2fGJCm568Jhui"
+    },
+    "values": "535+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-02T18:28:54",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "lullabloom",
+    "texts": "Lullabloom",
+    "image": {
+      "main": "137545429302732",
+      "backup": "1lPhCFokzPLevMgTl37GIlT8yonKiI86p"
+    },
+    "values": "285+",
+    "demands": "3/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-05-02T18:29:38",
+    "edited_date": "2026-07-26T22:57:30.691Z"
+  },
+  {
+    "unitKey": "dynosprout",
+    "texts": "Dynosprout",
+    "image": {
+      "main": "88385379221862",
+      "backup": "1jfliZpIz1-E9o1VxmRedHm02OOsL-dXk"
+    },
+    "values": "490+",
+    "demands": "2.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-09T13:04:45",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "starbud",
+    "texts": "Starbud",
+    "image": {
+      "main": "74963464688155",
+      "backup": "1aj8Y_ioG7Eb42cHcJAPvCPtDdY84sXfA"
+    },
+    "values": "530+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-09T13:05:26",
+    "edited_date": "2026-08-13T22:45:21.853Z"
+  },
+  {
+    "unitKey": "bronzeStarbud",
+    "texts": "Bronze Starbud",
+    "image": {
+      "main": "87275810119445",
+      "backup": "1Bb2nlk3DbrbjEyF84tX2Og0AD2MPX0ae"
+    },
+    "values": "875+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-05-09T13:06:01",
+    "edited_date": "2026-07-22T21:56:13.222Z"
+  },
+  {
+    "unitKey": "silverStarbud",
+    "texts": "Silver Starbud",
+    "image": {
+      "main": "134838417038490",
+      "backup": "1W0iL8R667p_woPpuXiP3EYM2CJU9jYDa"
+    },
+    "values": "4.7k+",
+    "demands": "3/10",
+    "status": "Outdated",
+    "rarity": "exclusive",
+    "added_date": "2026-05-09T13:06:21",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "goldStarbud",
+    "texts": "Gold Starbud",
+    "image": {
+      "main": "73195021017137",
+      "backup": "1340D_D8sn1hLbwQrcin0AAVfaZUrt6jh"
+    },
+    "values": "24k+ -> 28k+",
+    "demands": "3/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-05-09T13:07:19",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "toxileaf",
+    "texts": "Toxileaf",
+    "image": {
+      "main": "95162703327114",
+      "backup": "1Ho6etP-6MGqfauGIreWaFMN8hR4NNG_b"
+    },
+    "values": "315+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-16T11:23:08",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "sentryStem",
+    "texts": "Sentry Stem",
+    "image": {
+      "main": "110049399948261",
+      "backup": "1gQcvQILwLjKmUrnXhn6hu4r7ZWrRj8rY"
+    },
+    "values": "1.05k+",
+    "demands": "4.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-16T11:23:54",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "seaDragon",
+    "texts": "Sea Dragon",
+    "image": {
+      "main": "116855315343100",
+      "backup": "1iTEBy62nOUIxNJD5dpFIMlHQTVmoOwr0"
+    },
+    "values": "2.9k+",
+    "demands": "6/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2026-05-23T15:13:34",
+    "edited_date": "2026-08-11T23:25:58.545Z"
+  },
+  {
+    "unitKey": "tridenthra",
+    "texts": "Tridenthra",
+    "image": {
+      "main": "119987857514440",
+      "backup": "1M9JoqvZOKbEo0_neAQf1UoGfRjxYJc3S"
+    },
+    "values": "135+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2026-05-23T15:15:06",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "treasureTrap",
+    "texts": "Treasure Trap",
+    "image": {
+      "main": "126019474327842",
+      "backup": "1hue944ock-YYI4U3W46kANQOX1XjikUW"
+    },
+    "values": "750+",
+    "demands": "6/10",
+    "status": "Slowly Rising",
+    "rarity": "exclusive",
+    "added_date": "2026-05-23T15:28:01",
+    "edited_date": "2026-07-31T00:15:12.002Z"
+  },
+  {
+    "unitKey": "axolotlHideout",
+    "texts": "Axolotl Hideout",
+    "image": {
+      "main": "122738033476078",
+      "backup": "1JCMQ77hxeaV0tENrM3MVvBIePACG5Q-u"
+    },
+    "values": "415+",
+    "demands": "6.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-23T15:28:40",
+    "edited_date": "2026-07-26T22:57:30.691Z"
+  },
+  {
+    "unitKey": "luminesia",
+    "texts": "Luminesia",
+    "image": {
+      "main": "136849530017388",
+      "backup": "1q6es_4WxcRxlFGkpGTD0R0BAffwDtns6"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-05-23T15:30:16",
+    "edited_date": null
+  },
+  {
+    "unitKey": "inkweed",
+    "texts": "Inkweed",
+    "image": {
+      "main": "136790486461086",
+      "backup": "1BDqFvCU47XADKre0D_XyW2xJKupZKT-5"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-05-23T15:30:46",
+    "edited_date": null
+  },
+  {
+    "unitKey": "bronzeAxolotlHideout",
+    "texts": "Bronze Axolotl Hideout",
+    "image": {
+      "main": "72097320877297",
+      "backup": "1iHwblCOl02cLFQSib3NPxdJhdAyEefLx"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-05-23T15:32:00",
+    "edited_date": null
+  },
+  {
+    "unitKey": "silverAxolotlHideout",
+    "texts": "Silver Axolotl Hideout",
+    "image": {
+      "main": "119079398613624",
+      "backup": "1kZG-DYlhOrSC705UZRQZ03WOpTkaSduj"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-05-23T15:32:39",
+    "edited_date": null
+  },
+  {
+    "unitKey": "goldAxolotlHideout",
+    "texts": "Gold Axolotl Hideout",
+    "image": {
+      "main": "86907675730944",
+      "backup": "1dLTktmSmtPOCba7N-iKyQThEMAkvO9aX"
+    },
+    "values": "38.5K+ --> 58.5K+ (O/C)",
+    "demands": "1/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2026-05-23T15:33:35",
+    "edited_date": "2026-07-31T00:15:12.001Z"
+  },
+  {
+    "unitKey": "hydranthus",
+    "texts": "Hydranthus",
+    "image": {
+      "main": "114512686533947",
+      "backup": "1fIgWfO5T1uK1eyk8Vy2v5tQ2uZ8Ws4lA"
+    },
+    "values": "375+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-30T12:04:48",
+    "edited_date": "2026-07-24T22:23:49.147Z"
+  },
+  {
+    "unitKey": "squidPlant",
+    "texts": "Squid Plant",
+    "image": {
+      "main": "76859616570166",
+      "backup": "1Am_adMDIDIf2oXesuYbeAG7T23kFVwK-"
+    },
+    "values": "475+",
+    "demands": "3/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-05-30T12:18:37",
+    "edited_date": "2026-08-15T21:45:50.973Z"
+  },
+  {
+    "unitKey": "glassSpeedSprinkler",
+    "texts": "Glass Speed Sprinkler",
+    "image": {
+      "main": "113545326712891",
+      "backup": "1P4Vu3SrnGVWlDWGzehwFLvVCRyC8JFrW"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-05-30T12:28:51",
+    "edited_date": null
+  },
+  {
+    "unitKey": "bronzeBallisticBanana",
+    "texts": "Bronze Ballistic Banana",
+    "image": {
+      "main": "80656122749583",
+      "backup": "1WLz2ZiLnwLRddS1xoSOrvhQmRpEN7Y0p"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "godly",
+    "added_date": "2026-05-30T12:29:59",
+    "edited_date": null
+  },
+  {
+    "unitKey": "silverZapseed",
+    "texts": "Silver Zapseed",
+    "image": {
+      "main": "131365583069324",
+      "backup": "1sx1-tP-waMQBalXRAS9PEPG7a95nX91q"
+    },
+    "values": "370+",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-05-30T12:30:36",
+    "edited_date": "2026-07-08T23:33:19.340Z"
+  },
+  {
+    "unitKey": "goldFungalBarrage",
+    "texts": "Gold Fungal Barrage",
+    "image": {
+      "main": "112428807139795",
+      "backup": "160lDM4WZtQUVKQXy7jm18xho2RSUBACv"
+    },
+    "values": "640+",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-05-30T12:31:20",
+    "edited_date": "2026-07-22T21:56:13.223Z"
+  },
+  {
+    "unitKey": "volcaflora",
+    "texts": "Volcaflora",
+    "image": {
+      "main": "120957948982484",
+      "backup": "1T7UlHU_zsYQIdXb6uRukA6AxczYb9Op1"
+    },
+    "values": "430+",
+    "demands": "3.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-06-06T18:48:28",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "fireflies",
+    "texts": "Fireflies",
+    "image": {
+      "main": "118876277552465",
+      "backup": "1HVfIX1pc6XELhVCq1q4ul-qnbxSJ_bTP"
+    },
+    "values": "475+",
+    "demands": "5.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-06T18:52:26",
+    "edited_date": "2026-08-15T21:45:50.973Z"
+  },
+  {
+    "unitKey": "ashroom",
+    "texts": "Ashroom",
+    "image": {
+      "main": "101764714929222",
+      "backup": "1NZfQJqbFgTEImYLvi1edurSrorTTYsxL"
+    },
+    "values": "115+",
+    "demands": "2.5/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-06-06T18:54:58",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "overlordStem",
+    "texts": "Overlord Stem",
+    "image": {
+      "main": "125035050922630",
+      "backup": "15AU3917OoJZIXyyJ47_1hYTtn8_Al8ZG"
+    },
+    "values": "2.49k+",
+    "demands": "6.5/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2026-06-06T18:55:34",
+    "edited_date": "2026-08-25T23:27:38.574Z"
+  },
+  {
+    "unitKey": "emberFlower",
+    "texts": "Ember Flower",
+    "image": {
+      "main": "119941220808989",
+      "backup": "15YWJK39VV932UkIQKkt5cMNDFtFCeZAg"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-06-06T18:56:26",
+    "edited_date": null
+  },
+  {
+    "unitKey": "ignisia",
+    "texts": "Ignisia",
+    "image": {
+      "main": "113914096654709",
+      "backup": "1ZeZbwsYe0Cg54xTiZ6AxIQiLba9AVVUW"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "legendary",
+    "added_date": "2026-06-06T18:56:52",
+    "edited_date": null
+  },
+  {
+    "unitKey": "glassEmberFlower",
+    "texts": "Glass Ember Flower",
+    "image": {
+      "main": "128019904407032",
+      "backup": "13u2wRJxLWtL-3WhgS2MRbA8BaWJjBl3W"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-06-06T19:00:55",
+    "edited_date": null
+  },
+  {
+    "unitKey": "bronzeVolcaflora",
+    "texts": "Bronze Volcaflora",
+    "image": {
+      "main": "94201949484948",
+      "backup": "1s9gieXLf6_nQWYBLgcYRiULpdzi1zrdO"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-06-06T19:01:29",
+    "edited_date": null
+  },
+  {
+    "unitKey": "silverVolcaflora",
+    "texts": "Silver Volcaflora",
+    "image": {
+      "main": "104018922765834",
+      "backup": "1TjL-9jlIjT__JnjFYD1ce1scIaspXlWq"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-06-06T19:01:49",
+    "edited_date": null
+  },
+  {
+    "unitKey": "goldVolcaflora",
+    "texts": "Gold Volcaflora",
+    "image": {
+      "main": "88607957341689",
+      "backup": "1zjxzRiy1Qowdm5OzrEkDWpeP09Q4a-Ci"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-06-06T19:02:26",
+    "edited_date": null
+  },
+  {
+    "unitKey": "lavaGolem",
+    "texts": "Lava Golem",
+    "image": {
+      "main": "130092605725228",
+      "backup": "1R38BYuGG1A1wLjX548SV5RZ_8KDPsdi1"
+    },
+    "values": "445+",
+    "demands": "4/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-13T14:50:41",
+    "edited_date": "2026-08-15T21:45:50.973Z"
+  },
+  {
+    "unitKey": "sightstalk",
+    "texts": "Sightstalk",
+    "image": {
+      "main": "113069964095035",
+      "backup": "1Zp7VeOdfAMiZHyaC5D8dFuwukF88Sv7_"
+    },
+    "values": "290+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-13T14:51:16",
+    "edited_date": "2026-08-07T22:44:33.287Z"
+  },
+  {
+    "unitKey": "bloomday1stcake",
+    "texts": "1st Bloomday Cake",
+    "image": {
+      "main": "120178806335339",
+      "backup": "1lIsMGwUVv9-v9ON50is6H7x2X2SccKB6"
+    },
+    "values": "795+",
+    "demands": "7.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-13T14:52:23",
+    "edited_date": "2026-08-21T22:52:03.951Z"
+  },
+  {
+    "unitKey": "viridianBranch",
+    "texts": "Viridian Branch",
+    "image": {
+      "main": "100570239716394",
+      "backup": "13MTpnr14J2xzxtr--YXPamIiJ2t4uBHE"
+    },
+    "values": "420+",
+    "demands": "5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-20T17:54:32",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "clusterplant",
+    "texts": "Clusterplant",
+    "image": {
+      "main": "122027566799036",
+      "backup": "1hAwS1yTwghli3sIPVpRJor296mHjv9EL"
+    },
+    "values": "1.37K+",
+    "demands": "8.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-06-20T17:55:50",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "plasmaStem",
+    "texts": "Plasma Stem",
+    "image": {
+      "main": "135894356814991",
+      "backup": "1BAaRf-nyYwTg76OWfkkGoNOMvfwvyiWC"
+    },
+    "values": "345+",
+    "demands": "3.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:16:41",
+    "edited_date": "2026-08-11T23:25:58.545Z"
+  },
+  {
+    "unitKey": "shockroot",
+    "texts": "Shockroot",
+    "image": {
+      "main": "107393127246020",
+      "backup": "1ldW2L64s8PgJ-Qhzp1QmtY5wEJFH1ilx"
+    },
+    "values": "445+",
+    "demands": "5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:18:13",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "goldFortunaflora",
+    "texts": "Gold Fortunaflora",
+    "image": {
+      "main": "83843556266852",
+      "backup": "1EIolIuq6RCMw_C93wPsD5AWNhFQAYqZ1"
+    },
+    "values": "2.8k+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:20:55",
+    "edited_date": "2026-08-23T23:46:12.509Z"
+  },
+  {
+    "unitKey": "silverFortunaflora",
+    "texts": "Silver Fortunaflora",
+    "image": {
+      "main": "137056369423565",
+      "backup": "15-ZeFZs_iDOFJk4bPC--DGDkZ4FUV145"
+    },
+    "values": "750+",
+    "demands": "2.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:21:57",
+    "edited_date": "2026-07-26T22:57:30.691Z"
+  },
+  {
+    "unitKey": "goldRNGFlytrap",
+    "texts": "Gold RNG Flytrap",
+    "image": {
+      "main": "136939294836152",
+      "backup": "1_Q8PEQu8Tc8wLLRhpWicu4oCc6YgZM_L"
+    },
+    "values": "315+",
+    "demands": "2/10",
+    "status": "Slowly Dropping",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:23:01",
+    "edited_date": "2026-07-18T21:55:04.120Z"
+  },
+  {
+    "unitKey": "silverRNGFlytrap",
+    "texts": "Silver RNG Flytrap",
+    "image": {
+      "main": "127051795914516",
+      "backup": "1YbxTYl2_IQLdPQFhxjGwksu3glIXUuBp"
+    },
+    "values": "150+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:23:42",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "bronzeFortunaflora",
+    "texts": "Bronze Fortunaflora",
+    "image": {
+      "main": "114462523162986",
+      "backup": "14JWfyeW5nqNEfJRN9eZmxvTQk89ECOIG"
+    },
+    "values": "345+",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:25:00",
+    "edited_date": "2026-07-10T13:38:24.346Z"
+  },
+  {
+    "unitKey": "fortunaflora",
+    "texts": "Fortunaflora",
+    "image": {
+      "main": "87059281889793",
+      "backup": "1Rt2FzXUcFmOS6L28zB_JifCzO-5Eue75"
+    },
+    "values": "200+",
+    "demands": "1/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:25:31",
+    "edited_date": "2026-08-29T21:57:11.826Z"
+  },
+  {
+    "unitKey": "goldJinxPlant",
+    "texts": "Gold Jinx Plant",
+    "image": {
+      "main": "106723944284339",
+      "backup": "1T_PJbsETWxYUdM4dCoDTNVPdOmlugZ2a"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:25:51",
+    "edited_date": null
+  },
+  {
+    "unitKey": "bronzeRNGFlytrap",
+    "texts": "Bronze RNG Flytrap",
+    "image": {
+      "main": "121380548928847",
+      "backup": "1hDmuJiHXNbWVJHM5CMFhLs8K4PYJWGAY"
+    },
+    "values": "80+",
+    "demands": "1.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:27:00",
+    "edited_date": "2026-07-08T23:33:19.339Z"
+  },
+  {
+    "unitKey": "rngFlytrap",
+    "texts": "RNG Flytrap",
+    "image": {
+      "main": "104028983239969",
+      "backup": "1Xy_S6gWSMPnFvktbunpl6EWHefLFKZxR"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:27:34",
+    "edited_date": null
+  },
+  {
+    "unitKey": "silverJinxPlant",
+    "texts": "Silver Jinx Plant",
+    "image": {
+      "main": "79571573086806",
+      "backup": "1O32BPTcKxdIQpjpQz7Q5b3lScpKGoLQQ"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:28:42",
+    "edited_date": null
+  },
+  {
+    "unitKey": "goldLuckyLatchroot",
+    "texts": "Gold Lucky Latchroot",
+    "image": {
+      "main": "119871706336273",
+      "backup": "153b4wH3qr7mQzrTaWc9x31TZy2aZ3pKI"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:29:20",
+    "edited_date": null
+  },
+  {
+    "unitKey": "bronzeJinxPlant",
+    "texts": "Bronze Jinx Plant",
+    "image": {
+      "main": "85875347542532",
+      "backup": "1OZQ9Bd_H7xjHTiWfwSw9G4-tVXxgJdop"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:33:27",
+    "edited_date": null
+  },
+  {
+    "unitKey": "jinxPlant",
+    "texts": "Jinx Plant",
+    "image": {
+      "main": "84773256179661",
+      "backup": "1oar7s-Pyd_F0Sk-CnXiYHJqdlQOAc8qF"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:34:15",
+    "edited_date": null
+  },
+  {
+    "unitKey": "silverLuckyLatchroot",
+    "texts": "Silver Lucky Latchroot",
+    "image": {
+      "main": "77122693232064",
+      "backup": "1gPG7u8ZE1glaTrmi1lQZK4DtJRJTO58g"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:35:03",
+    "edited_date": null
+  },
+  {
+    "unitKey": "bronzeLuckyLatchroot",
+    "texts": "Bronze Lucky Latchroot",
+    "image": {
+      "main": "131040539354343",
+      "backup": "1EX9z4bns6hzQTz-yts2s-6uX5e5WVryy"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:36:04",
+    "edited_date": null
+  },
+  {
+    "unitKey": "luckyLatchroot",
+    "texts": "Lucky Latchroot",
+    "image": {
+      "main": "103231512607418",
+      "backup": "1ESNh0gu4w8gYE92p5IGeGX11GrAsw3gZ"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-06-27T13:36:34",
+    "edited_date": null
+  },
+  {
+    "unitKey": "x2LuckyBlocksGift",
+    "texts": "x2 Lucky Blocks",
+    "image": {
+      "main": "98466371626678",
+      "backup": "145AGEE9ERW63-UaCM9j4b0_An6faLM-f"
+    },
+    "values": "985+",
+    "demands": "5.5/10",
+    "status": "Unstable",
+    "rarity": "item",
+    "added_date": "2026-06-27T13:58:29",
+    "edited_date": "2026-07-17T00:15:29.313Z"
+  },
+  {
+    "unitKey": "feastflower",
+    "texts": "Feastflower",
+    "image": {
+      "main": "88081030944339",
+      "backup": "1g5VStuQJ3MyBdQEpQGoOuusdKkES7e3T"
+    },
+    "values": "420+",
+    "demands": "3.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-07-04T13:36:34",
+    "edited_date": "2026-08-11T23:25:58.545Z"
+  },
+  {
+    "unitKey": "stunia",
+    "texts": "Stunia",
+    "image": {
+      "main": "100031180276873",
+      "backup": "11lIkLLFwv3EqGOqYwETmE5I8ZwW34kzx"
+    },
+    "values": "285+",
+    "demands": "2.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-07-04T13:36:35",
+    "edited_date": "2026-08-09T23:11:56.343Z"
+  },
+  {
+    "unitKey": "luckyBlockClover",
+    "texts": "Lucky Block Clover",
+    "image": {
+      "main": "120974483373526",
+      "backup": "1tddlKGIkHWVyNjgfV_GdAHdRX7A-8Y3j"
+    },
+    "values": "405+",
+    "demands": "4/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-07-04T13:36:36",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "luckpod",
+    "texts": "Luckpod",
+    "image": {
+      "main": "87680451236547",
+      "backup": "1EN3lu33xrgULz7MEEUfAYLI38bWC1z9D"
+    },
+    "values": "410+",
+    "demands": "4.5/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-07-04T13:36:37",
+    "edited_date": "2026-07-20T22:37:25.170Z"
+  },
+  {
+    "unitKey": "luckyRiftroot",
+    "texts": "Lucky Riftroot",
+    "image": {
+      "main": "134162410696638",
+      "backup": "1wPwX9y2eGKYB8fql-yRIRwdKhLgRBS5q"
+    },
+    "values": "720+",
+    "demands": "4.5/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-07-04T13:36:38",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "luckseer",
+    "texts": "Luckseer",
+    "image": {
+      "main": "108751125566628",
+      "backup": "16Nep4j5zKXzoJWNkMK2u4cl9u_X5GwQd"
+    },
+    "values": "905+",
+    "demands": "6/10",
+    "status": "Fluctuating",
+    "rarity": "godly",
+    "added_date": "2026-07-04T13:36:38",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "silverFeastflower",
+    "texts": "Silver Feastflower",
+    "image": {
+      "main": "99715771954784",
+      "backup": "13IAJySsxAMGYzP7_G_utSdQWhfMEL46c"
+    },
+    "values": "680+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-07-04T13:36:39",
+    "edited_date": "2026-07-18T21:55:04.120Z"
+  },
+  {
+    "unitKey": "goldFeastflower",
+    "texts": "Gold Feastflower",
+    "image": {
+      "main": "97207478644788",
+      "backup": "1DUDIDfZAMzrJdg4Spk1sZSSUTHtwFj-f"
+    },
+    "values": "840+",
+    "demands": "5/10",
+    "status": "Dropping",
+    "rarity": "exclusive",
+    "added_date": "2026-07-04T13:36:40",
+    "edited_date": "2026-07-26T22:57:30.691Z"
+  },
+  {
+    "unitKey": "silverShockroot",
+    "texts": "Silver Shockroot",
+    "image": {
+      "main": "112312689534572",
+      "backup": "1LR_n5v8Kq0Fk2wmgKJSuVUWiyHG66_Rb"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "exclusive",
+    "added_date": "2026-07-04T13:36:41",
+    "edited_date": "N/A"
+  },
+  {
+    "unitKey": "goldShockroot",
+    "texts": "Gold Shockroot",
+    "image": {
+      "main": "78249428607213",
+      "backup": "1ZUn2PpSgrqL_SfG5fY5dMxTsSZCkWCM4"
+    },
+    "values": "7.5K+ --> 10k+ (O/C)",
+    "demands": "2.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-07-04T13:36:42",
+    "edited_date": "2026-07-31T00:15:12.002Z"
+  },
+  {
+    "unitKey": "sundialstalk",
+    "texts": "Sundialstalk",
+    "image": {
+      "main": "137051143332783",
+      "backup": "1ASnl8ELpFwHaljFK9dmPspPaDhmUHYVx"
+    },
+    "values": "430+",
+    "demands": "4.5/10",
+    "status": "Stable",
+    "rarity": "exclusive",
+    "added_date": "2026-07-11T13:36:40",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "budyguards",
+    "texts": "Budyguards",
+    "image": {
+      "main": "78389333684097",
+      "backup": "1Bi24n6Khy71r5EZRU3OpJfVe1nHKEb-u"
+    },
+    "values": "7.2k+",
+    "demands": "8/10",
+    "status": "Inflated",
+    "rarity": "exclusive",
+    "added_date": "2026-07-11T13:36:41",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "goldConfusionPlant",
+    "texts": "Gold Confusion Plant",
+    "image": {
+      "main": "112509857053463",
+      "backup": "1o_VI8hhsybB_1EJ9OS6ka4bXHx5kkWRu"
+    },
+    "values": "17k+ -> 22.5k+ (O/C)",
+    "demands": "2/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-07-11T13:36:42",
+    "edited_date": "2026-08-05T22:54:13.519Z"
+  },
+  {
+    "unitKey": "snarevine",
+    "texts": "Snarevine",
+    "image": {
+      "main": "92747363630993",
+      "backup": "1SF6tCPIqlXm8Ez0-AddTH4TIPrlv8D8f"
+    },
+    "values": "380+",
+    "demands": "4.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-07-18T13:36:42",
+    "edited_date": "2026-07-28T23:46:54.156Z"
+  },
+  {
+    "unitKey": "tremorTree",
+    "texts": "Tremor Tree",
+    "image": {
+      "main": "130400865236593",
+      "backup": "1_3cJ5RkeZdKDXwLdy7YkSD80UVCnytl5"
+    },
+    "values": "545+",
+    "demands": "6.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-07-18T13:36:43",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "surgeRoot",
+    "texts": "Surge Root",
+    "image": {
+      "main": "119328911593524",
+      "backup": "1FQyzIF4lMHdPft1UsAJgQEM3P1SzR9dO"
+    },
+    "values": "510+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-07-25T13:36:43",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "hydrobloomCannon",
+    "texts": "Hydrobloom Cannon",
+    "image": {
+      "main": "75561995567753",
+      "backup": "1-UF6lQHhRmbwyd8evuAhE_ZGRCWpJD4Z"
+    },
+    "values": "580+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-07-25T13:36:44",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "bronzeRegenerationFlower",
+    "texts": "Bronze Regeneration Flower",
+    "image": {
+      "main": "107607488702853",
+      "backup": "1wtninmrNiFTML0cL7H4X9liGGhT33ZwY"
+    },
+    "values": "4.27k+",
+    "demands": "3.5/10",
+    "status": "Unstable",
+    "rarity": "leaderboard",
+    "added_date": "2026-07-25T13:36:46",
+    "edited_date": "2026-08-20T00:13:45.442Z"
+  },
+  {
+    "unitKey": "silverRegenerationFlower",
+    "texts": "Silver Regeneration Flower",
+    "image": {
+      "main": "95861808898000",
+      "backup": "1EgdxnWpjWiz26WUC1o3eOSG7iKUjeE1d"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-07-25T13:36:47",
+    "edited_date": "N/A"
+  },
+  {
+    "unitKey": "goldRegenerationFlower",
+    "texts": "Gold Regeneration Flower",
+    "image": {
+      "main": "95515383469678",
+      "backup": "1NTp3pKdk3g146i5Zii9GMU_wNmBsTuWq"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-07-25T13:36:48",
+    "edited_date": "N/A"
+  },
+  {
+    "unitKey": "glassEchofern",
+    "texts": "Glass Echofern",
+    "image": {
+      "main": "74891089027004",
+      "backup": "18OwGIBgGHWEnUE8qwizU-6ToscJXEQlc"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "leaderboard",
+    "added_date": "2026-07-25T13:36:49",
+    "edited_date": "N/A"
+  },
+  {
+    "unitKey": "beaconbud",
+    "texts": "Beaconbud",
+    "image": {
+      "main": "123586331422254",
+      "backup": "1ZlxBRqLoMN11tGVSToo0U2BnwGWrC9JH"
+    },
+    "values": "380+",
+    "demands": "5.5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-08-01T13:36:49",
+    "edited_date": "2026-08-07T22:44:33.287Z"
+  },
+  {
+    "unitKey": "dualBellflower",
+    "texts": "Dual Bellflower",
+    "image": {
+      "main": "95835636353416",
+      "backup": "1en04sHDzzwi4bDwKS8MTYJ7Q88kFTTww"
+    },
+    "values": "845+",
+    "demands": "7/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-08-01T13:36:50",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "spiritwood",
+    "texts": "Spiritwood",
+    "image": {
+      "main": "104748215037324",
+      "backup": "1GZhlNEqjjbQYy-NYy1ApjrWyimmptdh0"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "godly",
+    "added_date": "2026-08-01T13:36:51",
+    "edited_date": "N/A"
+  },
+  {
+    "unitKey": "dualStemstorm",
+    "texts": "Dual Stemstorm",
+    "image": {
+      "main": "90369221007436",
+      "backup": "195rjAMfCIZf2cY8X0jxPcY5sRgqje_fs"
+    },
+    "values": "480+",
+    "demands": "4/10",
+    "status": "Stable",
+    "rarity": "godly",
+    "added_date": "2026-08-01T13:36:52",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "bubbleBlossom",
+    "texts": "Bubble Blossom",
+    "image": {
+      "main": "87967239734438",
+      "backup": "1IcyJ5ClI8FtZK3iBPwhVbm4D4znnSEtz"
+    },
+    "values": "N/A",
+    "demands": "N/A",
+    "status": "N/A",
+    "rarity": "godly",
+    "added_date": "2026-08-01T13:36:53",
+    "edited_date": "N/A"
+  },
+  {
+    "unitKey": "fireDragon",
+    "texts": "Fire Dragon",
+    "image": {
+      "main": "117892687164123",
+      "backup": "1Ar4B-BGfvzjb2K6tOFW_JjK7xjYj_RU9"
+    },
+    "values": "13.5k+",
+    "demands": "5/10",
+    "status": "Unstable",
+    "rarity": "godly",
+    "added_date": "2026-08-01T13:36:54",
+    "edited_date": "2026-08-15T22:28:29.042Z"
+  },
+  {
+    "unitKey": "sunfireBlossom",
+    "texts": "Sunfire Blossom",
+    "image": {
+      "main": "103398121072568",
+      "backup": "1Z4-u3Hnjy8IaXL6cuVb_gqJxPqXb2CyJ"
+    },
+    "values": "495+",
+    "demands": "5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-08-07T13:36:54",
+    "edited_date": "2026-08-15T21:45:50.973Z"
+  },
+  {
+    "unitKey": "orbarrageBloom",
+    "texts": "Orbarrage Bloom",
+    "image": {
+      "main": "70912594108091",
+      "backup": "1uSOLdBGVHTi8xStQYX3DFLm82k3kAZVQ"
+    },
+    "values": "360+",
+    "demands": "5/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-08-07T13:36:55",
+    "edited_date": "2026-08-15T21:45:50.974Z"
+  },
+  {
+    "unitKey": "roseRoyale",
+    "texts": "Rose Royale",
+    "image": {
+      "main": "136155094675959",
+      "backup": "1o6VLTDshnywRi9wt-RAec-7HhJdaCUWW"
+    },
+    "values": "1.94k+",
+    "demands": "4.5/10",
+    "status": "Fluctuating",
+    "rarity": "leaderboard",
+    "added_date": "2026-08-07T13:36:56",
+    "edited_date": "2026-08-28T01:11:46.462Z"
+  },
+  {
+    "unitKey": "sprinklord",
+    "texts": "Sprinklord",
+    "image": {
+      "main": "114671940152081",
+      "backup": "1nfuob11emkte0BfBl5482uHSZKTFLwO9"
+    },
+    "values": "950+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-08-14T13:36:56",
+    "edited_date": "2026-08-29T23:28:36.384Z"
+  },
+  {
+    "unitKey": "electrosprout",
+    "texts": "Electrosprout",
+    "image": {
+      "main": "95761809337393",
+      "backup": "19dAwaOFex-o1jZaaVjlXjC1RJFT4yRvk"
+    },
+    "values": "2.73k+",
+    "demands": "8.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-08-14T13:36:57",
+    "edited_date": "2026-08-31T23:39:25.320Z"
+  },
+  {
+    "unitKey": "medusaFlower",
+    "texts": "Medusa Flower",
+    "image": {
+      "main": "105374102327295",
+      "backup": "1_pJNxG9n6EfVY8gnNArewz-ox237NF3r"
+    },
+    "values": "495+",
+    "demands": "4/10",
+    "status": "Fluctuating",
+    "rarity": "exclusive",
+    "added_date": "2026-08-20T13:36:57",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "bouncebloom",
+    "texts": "Bouncebloom",
+    "image": {
+      "main": "103215537843717",
+      "backup": "1TrKtlyjoKI5_DrSiBOJVK6nTj71di4r_"
+    },
+    "values": "1.4K+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-08-20T13:36:58",
+    "edited_date": "2026-08-31T23:39:25.321Z"
+  },
+  {
+    "unitKey": "enchanterberries",
+    "texts": "Enchanterberries",
+    "image": {
+      "main": "109087235315841",
+      "backup": "1B38FFSnQFiOFi-43tlPoImWoGdoaqYPy"
+    },
+    "values": "660+",
+    "demands": "4.5/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-08-29T13:36:58",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  },
+  {
+    "unitKey": "drainroot",
+    "texts": "Drainroot",
+    "image": {
+      "main": "95183895038559",
+      "backup": "1HaiSUB0ZrR2NQHv0eHwhCYwCBwIGHozw"
+    },
+    "values": "585+",
+    "demands": "7/10",
+    "status": "Unstable",
+    "rarity": "exclusive",
+    "added_date": "2026-08-29T13:36:59",
+    "edited_date": "2026-09-03T00:23:35.056Z"
+  }
+]
